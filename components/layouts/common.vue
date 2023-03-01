@@ -12,7 +12,7 @@ withDefaults(defineProps<PropType>(), {
 
 <template>
   <div>
-    <BreadCrumbs :items="items" v-if="items.length > 0"></BreadCrumbs>
+    <MoleculesMenuBreadCrumbs :items="items" v-if="items.length > 0"></MoleculesMenuBreadCrumbs>
     <v-container class="my-5">
       <slot></slot>
     </v-container>

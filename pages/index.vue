@@ -1,5 +1,10 @@
+
 <template>
-    <div>
-        <MoleculesMenuTopImage></MoleculesMenuTopImage>
-    </div>
+  <div>
+    <MoleculesMenuTopImage></MoleculesMenuTopImage>
+    <v-container class="py-10">
+        あああ
+    </v-container>
+    <MoleculesNewsTop></MoleculesNewsTop>
+  </div>
 </template>
