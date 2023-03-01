@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10010m"><body>
+<div type="diary-entry" xml:id="DKB10010m-0010">
+<head>
+<date when="1901-05-15">
+        五月十五日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="11:00:00">
+        午前十一時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ出勤ス、
+       <time when="12:00:00">
+        十二時
+       </time>
+<persName corresp="#pers_佐々木">
+<surname>
+         佐々木
+        </surname>
+</persName>
+       氏ト同ク
+       <orgName>
+        銀行倶楽部
+       </orgName>
+       ニ抵リテ午餐ス、畢テ銀行ニ帰リ二三ノ来人ニ接ス、
+       <time when="18:00:00">
+        午後六時
+       </time>
+       過キ
+       <placeName corresp="#place_深川">
+        深川
+       </placeName>
+       宅ニ帰宿ス、此日午前大蔵省ニ抵リ
+       <persName corresp="#pers_田尻">
+<surname>
+         田尻
+        </surname>
+</persName>
+       氏ニ面会シテ小切手納税ノ事及大蔵省証券発行ノ事ヲ談ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0011">
+<head>
+<date when="1901-05-16">
+        五月十六日
+       </date>
+</head>
+<p>
+       雨、午前
+       <placeName corresp="#place_麻布">
+        麻布
+       </placeName>
+<persName corresp="#pers_井上">
+<surname>
+         井上
+        </surname>
+</persName>
+       伯ヲ訪ヒ内閣組織ノ事ニ関シ種々ノ談話アリ、午餐後東京市役所ニ抵リ
+       <persName corresp="#pers_浦田">
+<surname>
+         浦田
+        </surname>
+</persName>
+       助役ニ面会シテ
+       <placeName corresp="#place_東京湾">
+        東京湾
+       </placeName>
+       築港ノ事ヲ談シ、且養育院感化部ノ事ヲ談ス、午後
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ出勤シテ重役会ヲ開ク、
+       <persName corresp="#pers_渋沢成一郎">
+<surname>
+         渋沢
+        </surname>
+<forename>
+         喜作
+        </forename>
+</persName>
+       来話ス、
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       宅ニ帰リテ
+       <persName corresp="#pers_尾高">
+<surname>
+         尾高
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_八十島">
+<surname>
+         八十島
+        </surname>
+</persName>
+       等ニ事務ヲ指示シ夜ニ入テ
+       <placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0012">
+<head>
+<date when="1901-05-17">
+        五月十七日
+       </date>
+</head>
+<p>
+       晴、午前書類ヲ調査シ且庭園ノ掃除ヲ為シ、
+       <time when="13:00:00">
+        午後一時
+       </time>
+       日本鉄道会社重役会ニ列ス、畢テ
+       <persName corresp="#pers_前田青莎">
+<surname>
+         前田
+        </surname>
+<forename>
+         青莎
+        </forename>
+</persName>
+       氏来リ岩越鉄道ノ事務ヲ談ス、
+       <time when="15:00:00">
+        午後三時
+       </time>
+<persName corresp="#pers_高田慎蔵">
+<surname>
+         高田
+        </surname>
+<forename>
+         慎蔵
+        </forename>
+</persName>
+       氏邸ヲ
+       <placeName corresp="#place_湯島">
+        湯島
+       </placeName>
+       ニ訪ヒ玉突ノ技ヲ観ル、
+       <time when="16:00:00">
+        四時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ抵ル、
+       <persName corresp="#pers_渋沢成一郎">
+<surname>
+         渋沢
+        </surname>
+<forename>
+         喜作
+        </forename>
+</persName>
+       及二三ノ来客アリ、畢テ華族会館ニ抵リ日本鉄道会社ノ饗宴ニ列ス、夜
+       <time when="21:00:00">
+        九時
+       </time>
+<placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0013">
+<head>
+<date when="1901-05-18">
+        五月十八日
+       </date>
+</head>
+<p>
+       雨、
+       <time when="08:00:00">
+        午前八時
+       </time>
+<placeName corresp="#place_麻布">
+        麻布
+       </placeName>
+<persName corresp="#pers_井上">
+<surname>
+         井上
+        </surname>
+</persName>
+       伯ヲ訪フ、再ヒ内閣組織ノ内話アリ、去テ
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ抵リ
+       <persName corresp="#pers_佐々木">
+<surname>
+         佐々木
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_日下">
+<surname>
+         日下
+        </surname>
+</persName>
+       両氏ト談話スル処アリ、
+       <time when="15:00:00">
+        午後三時
+       </time>
+<persName corresp="#pers_浜岡光哲">
+<surname>
+         浜岡
+        </surname>
+<forename>
+         光哲
+        </forename>
+</persName>
+       氏来ル、
+       <persName corresp="#pers_田島信夫">
+<surname>
+         田島
+        </surname>
+<forename>
+         信夫
+        </forename>
+</persName>
+       氏来ル、
+       <time when="16:00:00">
+        四時
+       </time>
+       過
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       ニ抵リ衣服ヲ更メ、
+       <time when="17:00:00">
+        五時
+       </time>
+<placeName corresp="#place_番町">
+        番町
+       </placeName>
+<persName corresp="#pers_加藤正義">
+<surname>
+         加藤
+        </surname>
+<forename>
+         正義
+        </forename>
+</persName>
+       氏宅ニ抵ル、茶事ノ饗宴ヲ享ク、
+       <persName corresp="#pers_三井高保">
+<surname>
+         三井
+        </surname>
+<forename>
+         高保
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_馬越恭平">
+<surname>
+         馬越
+        </surname>
+<forename>
+         恭平
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_益田克徳">
+<surname>
+         益田
+        </surname>
+<forename>
+         克徳
+        </forename>
+</persName>
+       氏等来会ス、雨中ノ茶事亦興味アリ、器具調理頗ル美善ヲ尽セリ、夜
+       <time when="22:00:00">
+        十時
+       </time>
+<placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0014">
+<head>
+<date when="1901-05-19">
+        五月十九日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+<persName corresp="#pers_佐々木勇之助">
+<surname>
+         佐々木
+        </surname>
+<forename>
+         勇之助
+        </forename>
+</persName>
+       来リ、昨夜
+       <persName corresp="#pers_井上">
+<surname>
+         井上
+        </surname>
+</persName>
+       伯邸ニ於テ予ノ入閣ニ関スル事ニ付種々差支ノ事情ヲ述ヘタル旨ヲ申聞ラル、
+       <time when="10:00:00">
+        十時
+       </time>
+       王子発ノ汽車ニテ
+       <placeName corresp="#place_上野">
+        上野
+       </placeName>
+       ニ抵リテ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       宅ニ出勤ス、
+       <persName corresp="#pers_園田孝吉">
+<surname>
+         園田
+        </surname>
+<forename>
+         孝吉
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_日下義雄">
+<surname>
+         日下
+        </surname>
+<forename>
+         義雄
+        </forename>
+</persName>
+       二氏来リテ
+       <persName corresp="#pers_井上">
+<surname>
+         井上
+        </surname>
+</persName>
+       伯ヨリノ談話ヲ伝フ、
+       <time when="13:00:00">
+        午後一時
+       </time>
+<placeName corresp="#place_麻布">
+        麻布
+       </placeName>
+<persName corresp="#pers_井上">
+<surname>
+         井上
+        </surname>
+</persName>
+       伯ヲ訪ヒ
+       <persName corresp="#pers_芳川">
+<surname>
+         芳川
+        </surname>
+</persName>
+       子爵来会シテ共ニ予ノ入閣ヲ懇話ス、依テ更ニ再考ヲ約シテ去リ、日本橋倶楽部ニ抵リ
+       <orgName>
+        竜門社
+       </orgName>
+       ノ春季総会ニ出席ス、畢テ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       邸ニ帰リ、
+       <persName corresp="#pers_穂積">
+<surname>
+         穂積
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_阪谷">
+<surname>
+         阪谷
+        </surname>
+</persName>
+       及
+       <persName corresp="#pers_渋沢篤二">
+<forename>
+         篤二
+        </forename>
+</persName>
+       等ヲ会シテ入閣ノ事ヲ内話ス、一同其不可ヲ切言スルヲ以テ明朝迄ニ決定スルモノトシテ散会ス、之ヨリ先、
+       <persName corresp="#pers_佐々木">
+<surname>
+         佐々木
+        </surname>
+</persName>
+       氏ニ内話セシモ同シク入閣ノ不可ヲ論シ、且銀行ノ困却ヲ述ヘラル、夜
+       <time when="22:00:00">
+        十時
+       </time>
+<placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0015">
+<head>
+<date when="1901-05-20">
+        五月廿日
+       </date>
+</head>
+<p>
+       曇、午前書状ヲ作リ入閣謝絶ノ事ヲ
+       <persName corresp="#pers_芳川">
+<surname>
+         芳川
+        </surname>
+</persName>
+       子爵ニ通知ス、
+       <time when="10:00:00">
+        十時
+       </time>
+       王子発ノ汽車ニテ
+       <placeName corresp="#place_上野">
+        上野
+       </placeName>
+       ニ抵リ、博物館ニ於テ
+       <placeName corresp="#place_フランス">
+        仏国
+       </placeName>
+       ヨリ帰来セシ各種ノ美術品ヲ一覧ス、
+       <time when="12:00:00">
+        十二時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ出勤ス、午後
+       <persName corresp="#pers_芳川">
+<surname>
+         芳川
+        </surname>
+</persName>
+       氏ノ返書来ル、数多ノ来客ニ接シ、
+       <time when="18:00:00">
+        午後六時
+       </time>
+<placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       宅ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0016">
+<head>
+<date when="1901-05-21">
+        五月廿一日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="09:00:00">
+        午前九時
+       </time>
+<placeName corresp="#place_目白">
+        目白
+       </placeName>
+       椿山荘ニ
+       <persName corresp="#pers_山縣有朋">
+<surname>
+         山県
+        </surname>
+</persName>
+       侯ヲ訪ヒ、
+       <persName corresp="#pers_西郷">
+<surname>
+         西郷
+        </surname>
+</persName>
+       侯来会シテ予ノ入閣ヲ勧諭セラル、
+       <time when="11:00:00">
+        十一時
+       </time>
+<orgName>
+        日本銀行
+       </orgName>
+       ニ抵リ
+       <persName corresp="#pers_山本">
+<surname>
+         山本
+        </surname>
+</persName>
+       総裁ニ面会ス、同シク入閣談アリテ頻ニ勧誘セラル、
+       <time when="12:00:00">
+        十二時
+       </time>
+<placeName corresp="#place_芝山内">
+        芝山内
+       </placeName>
+       ニ
+       <persName corresp="#pers_伊藤">
+<surname>
+         伊藤
+        </surname>
+</persName>
+       侯ヲ訪フ、同シク入閣ノ
+       <pb corresp="#pageB1195" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/221/full/max/0/default.jpg" n="B1195" source="#pageB1195"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

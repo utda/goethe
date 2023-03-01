@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10010m"><body>
+<div type="diary-entry" xml:id="DKB10010m-0106">
+<head>
+<date when="1901-08-19">
+        八月十九日
+       </date>
+</head>
+<p>
+       晴、午前
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ出勤シテ事務ヲ処理ス、午後
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ出勤ス夕方
+       <placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       宅ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0107">
+<head>
+<date when="1901-08-20">
+        八月廿日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+<orgName>
+        東京商業会議所
+       </orgName>
+       臨時会ヲ開ク、畢テ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵ル、午後
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ出勤ス、夕
+       <time when="15:00:00">
+        三時
+       </time>
+       白耳義人
+       <persName corresp="#pers_フランキー">
+<surname>
+         フランキー
+        </surname>
+</persName>
+       ヲ
+       <placeName corresp="#place_洲崎">
+        洲崎
+       </placeName>
+       養魚場ヘ誘引ス、但屋根船ニテ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       ヨリ発程ス、舟中涼意清絶ナリ、釣魚ノ悞楽《（娯）》ヲ畢テ
+       <placeName corresp="#place_深川">
+        深川
+       </placeName>
+       宅ニ於テ饗宴ス、公使ダンネタン、
+       <persName corresp="#pers_内田">
+<surname>
+         内田
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_坂谷">
+<surname>
+         坂谷
+        </surname>
+</persName>
+       《（
+       <persName corresp="#pers_阪谷">
+<surname>
+         阪谷
+        </surname>
+</persName>
+       ）》、
+       <persName corresp="#pers_林">
+<surname>
+         林
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_高島">
+<surname>
+         高島
+        </surname>
+</persName>
+<persName corresp="#pers_吉田">
+<surname>
+         吉田
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_竹村">
+<surname>
+         竹村
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_瓜生">
+<surname>
+         瓜生
+        </surname>
+</persName>
+       ノ諸氏来会ス、夜
+       <placeName corresp="#place_深川">
+        深川
+       </placeName>
+       宅ニ一泊ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0108">
+<head>
+<date when="1901-08-21">
+        八月廿一日
+       </date>
+</head>
+<p>
+       晴、午前
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ出勤ス、午後
+       <orgName>
+        日本郵船会社
+       </orgName>
+       重役会ニ出席ス、畢テ
+       <placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0109">
+<head>
+<date when="1901-08-22">
+        八月廿二日
+       </date>
+</head>
+<p>
+       晴、午前
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ出勤ス、午後
+       <orgName>
+        第一銀行
+       </orgName>
+       重役会ヲ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       宅ニ開ク、
+       <time when="18:00:00">
+        六時
+       </time>
+<placeName corresp="#place_築地">
+        築地
+       </placeName>
+       メトルホール・ホテルニ抵リ
+       <persName corresp="#pers_フランキー">
+<surname>
+         フランキー
+        </surname>
+</persName>
+       氏ヲ訪フ、蓋シ同氏ノ案内ニ応シテ夜食ノ宴ヲ享クル為メナリ、夜ニ入リテ雨アリ、
+       <placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       宅ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0110">
+<head>
+<date when="1901-08-23">
+        八月廿三日
+       </date>
+</head>
+<p>
+       曇、午前
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵リ
+       <persName corresp="#pers_フランキー">
+<surname>
+         フランキー
+        </surname>
+</persName>
+       氏ヘノ添書ヲ裁ス、
+       <placeName corresp="#place_大韓民国">
+        韓国
+       </placeName>
+<persName corresp="#pers_尾高次郎">
+<surname>
+         尾高
+        </surname>
+<forename>
+         次郎
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_林">
+<surname>
+         林
+        </surname>
+</persName>
+       公使、
+       <persName corresp="#pers_竹内綱">
+<surname>
+         竹内
+        </surname>
+<forename>
+         綱
+        </forename>
+</persName>
+       其他ヘノ書状ヲ裁ス、夕方
+       <placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0111">
+<head>
+<date when="1901-08-24">
+        八月廿四日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       商業会議所ニ抵リ条例改正ニ関スル委員会ヲ開ク、
+       <time when="14:00:00">
+        午後二時
+       </time>
+       畢テ京釜鉄道会社ニ抵リ重役会ヲ開ク、午後
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ出勤シ
+       <time when="17:00:00">
+        五時
+       </time>
+<placeName corresp="#place_駿河台">
+        駿河台
+       </placeName>
+<persName corresp="#pers_一井">
+<surname>
+         一井
+        </surname>
+</persName>
+       歯科医師ヲ訪ヒ、
+       <time when="18:00:00">
+        六時
+       </time>
+<placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0112">
+<head>
+<date when="1901-08-25">
+        八月廿五日
+       </date>
+</head>
+<p>
+       朝雨、夕晴、午前、
+       <persName corresp="#pers_日下義雄">
+<surname>
+         日下
+        </surname>
+<forename>
+         義雄
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_矢野二郎">
+<surname>
+         矢野
+        </surname>
+<forename>
+         二郎
+        </forename>
+</persName>
+       氏等ヘ書状ヲ裁ス、
+       <time when="08:40:00">
+        八時四十分
+       </time>
+       板橋発ノ汽車ニテ
+       <placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       ニ抵ル、
+       <placeName corresp="#place_品川">
+        品川
+       </placeName>
+       ニ於テ乗替等ノ為メ
+       <time when="12:00:00">
+        十二時
+       </time>
+<placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       着、夕方海水浴ヲ為ス、涼意清爽ナリ
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0113">
+<head>
+<date when="1901-08-26">
+        八月廿六日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="06:00:00">
+        午前六時
+       </time>
+       海水浴ヲ為ス、
+       <persName corresp="#pers_増田義一">
+<surname>
+         増田
+        </surname>
+<forename>
+         義一
+        </forename>
+</persName>
+       氏来ル、
+       <persName corresp="#pers_梅浦精一">
+<surname>
+         梅浦
+        </surname>
+<forename>
+         精一
+        </forename>
+</persName>
+       氏来リ
+       <date evidence="year inferenced, month" when="1901-08-28">
+        廿八日
+       </date>
+<placeName corresp="#place_浦賀">
+        浦賀
+       </placeName>
+       行ノ事ヲ談ス、同姓
+       <persName corresp="#pers_渋沢成一郎">
+<forename>
+         喜作
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_宇野保太郎">
+<surname>
+         宇野
+        </surname>
+<forename>
+         保太郎
+        </forename>
+</persName>
+       二氏来ル、製麻会社ノ諸計算書ヲ査閲ス、
+       <orgName>
+        女子大学
+       </orgName>
+<persName corresp="#pers_堤">
+<surname>
+         堤
+        </surname>
+</persName>
+       氏《（
+       <persName corresp="#pers_塘">
+<surname>
+         塘
+        </surname>
+</persName>
+       氏）》来ル、東京本店
+       <persName corresp="#pers_佐々木">
+<surname>
+         佐々木
+        </surname>
+</persName>
+       氏ヨリ
+       <placeName corresp="#place_大韓民国">
+        韓国
+       </placeName>
+       貸金ノ事ニ関シ来書アリ、依テ同意ノ旨直ニ返電ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0114">
+<head>
+<date when="1901-08-27">
+        八月廿七日
+       </date>
+</head>
+<p>
+       晴、午前海水浴ヲ為シテ後日記ヲ調査ス、午後読書遊戯ニ消閑ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10010m-0115">
+<head>
+<date when="1901-08-28">
+        八月廿八日
+       </date>
+</head>
+<p>
+       曇、午前例ノ如ク海水ニ浴シ、
+       <time when="10:00:00">
+        十時
+       </time>
+       発ノ汽車ニテ
+       <placeName corresp="#place_浦賀">
+        浦賀
+       </placeName>
+       ニ抵ル、蓋シ
+       <orgName>
+        石川島造船所
+       </orgName>
+       分工場ニ於テ交通丸ノ進水式アルニヨル、
+       <time when="12:00:00">
+        十二時
+       </time>
+<placeName corresp="#place_浦賀">
+        浦賀
+       </placeName>
+       着、食後場内ヲ一覧シ、
+       <time when="15:00:00">
+        三時
+       </time>
+       滞リナク進水ヲ為シ、畢テ立食場ニ来賓ヲ誘引シテ一場ノ式辞演説ヲ為ス
+       <lb></lb>
+       此日進水式ノ概況ハ場内各所ニ種々ノテント又ハ小屋掛ニテ、観覧ノ場所モシクハ餅ヲ撒スル台ヲ設ケ、本船ニハ満艦飾ヲ為シ、其接近スル所ニ式場ヲ置ク、時刻ニ至リテ余等夫妻及
+       <persName corresp="#pers_梅浦">
+<surname>
+         梅浦
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_平沢進">
+<surname>
+         平沢
+        </surname>
+<forename>
+         進
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_福地">
+<surname>
+         福地
+        </surname>
+</persName>
+       ノ諸氏及船主
+       <persName corresp="#pers_大屋七平">
+<surname>
+         大屋
+        </surname>
+<forename>
+         七平
+        </forename>
+</persName>
+       氏等共ニ壇上ニ登リ先ツ餅ヲ撒シテ後本船ヲ維持ス
+       <pb corresp="#pageB1207" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/233/full/max/0/default.jpg" n="B1207" source="#pageB1207"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

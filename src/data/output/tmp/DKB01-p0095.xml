@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10008m"><front>
+<head>
+<date when="1899">
+       明治三十二年
+      </date>
+      1899
+     </head>
+<div type="archival-description">
+<p>
+       ○原本概要
+      </p>
+<p>
+       書名。万民重宝机上日記。
+      </p>
+<p>
+       体裁。菊判22.5cm×15cm、表紙鼠色紙クロス、見返シ、白無地。
+      </p>
+<p>
+       扉。万民重宝机上日記ト中央ニ、ソノ左下ニ約7.5cm×2.2cmノ化粧罫カコミノ記入欄ヲ印刷ス。
+      </p>
+<p>
+       本文。縦罫十行淡青色刷、欄外上部各頁ニ詩歌格言等ヲ掲グ。総頁三二〇頁。総テ鉛筆書キ。
+      </p>
+<p>
+       奥付。
+       <date when="1898-12-24">
+        明治三十一年十二月廿四日
+       </date>
+       印刷、
+       <date when="1898-12-27">
+        明治三十一年十二月廿七日
+       </date>
+       発行。定価金参拾銭。発行者
+       <placeName corresp="#place_東京市日本橋区本町三丁目八番地">
+        東京市日本橋区本町三丁目八番地
+       </placeName>
+<persName corresp="#pers_大橋新太郎">
+<surname>
+         大橋
+        </surname>
+<forename>
+         新太郎
+        </forename>
+</persName>
+       。印刷者
+       <placeName corresp="#place_東京市牛込区市ケ谷加賀町一丁目十二番地">
+        東京市牛込区市ケ谷加賀町一丁目十二番地
+       </placeName>
+<persName corresp="#pers_愛敬利世">
+<surname>
+         愛敬
+        </surname>
+<forename>
+         利世
+        </forename>
+</persName>
+       。印刷所
+       <placeName corresp="#place_東京市牛込区市ケ谷加賀町一丁目十二番地">
+        東京市牛込区市ケ谷加賀町一丁目十二番地
+       </placeName>
+       株式会社秀英舎第一工場。発兌元
+       <placeName corresp="#place_東京市日本橋区本町三丁目">
+        東京市日本橋区本町三丁目
+       </placeName>
+       博文館。
+      </p>
+<p>
+       前付並ニ後付。略ス。
+      </p>
+<p>
+       ■■[img図]〓■第一号《（
+       <persName corresp="#pers_渋沢栄一">
+<forename>
+         栄一
+        </forename>
+</persName>
+       鉛筆）》
+      </p>
+<p>
+       自
+       <date evidence="day" when="1899-01">
+        明治三十二年一月
+       </date>
+       至同年
+       <date evidence="year inferenced, day" when="1899-12">
+        十二月
+       </date>
+</p>
+</div>
+</front>
+<body>
+<div type="diary-entry" xml:id="DKB10008m-0001">
+<head>
+<date when="1899-01-01">
+        明治三十二年一月一日
+       </date>
+       快晴
+      </head>
+<p>
+<time when="08:00:00">
+        午前八時
+       </time>
+       頃朝餐ヲ為シ、各種ノ新聞紙ヲ一覧ス、
+       <orgName>
+        第一銀行
+       </orgName>
+       員及各会社員等続々来リテ新年ヲ賀ス、共ニ椒酒ヲ酌テ笑談ス、
+       <time when="10:00:00">
+        午前十時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ於テ行員一同ト共ニ新年ヲ祝シテ酒盃ヲ挙ク、
+       <time when="11:30:00">
+        十一時半
+       </time>
+       式畢テ帰宅ス、
+       <persName corresp="#pers_阪谷芳郎">
+<surname>
+         阪谷
+        </surname>
+<forename>
+         芳郎
+        </forename>
+</persName>
+       来リテ京仁鉄道ニ関スル政府ヨリノ貸与金下付ノ事ヲ談ス、蓋シ昨日
+       <persName corresp="#pers_益田孝">
+<surname>
+         益田
+        </surname>
+<forename>
+         孝
+        </forename>
+</persName>
+       氏ヨリ
+       <persName corresp="#pers_松方">
+<surname>
+         松方
+        </surname>
+</persName>
+       大蔵大臣ヘ請願スヘシトノ事アリシヲ以テナリ
+       <lb></lb>
+<time when="13:40:00">
+        午後一時四十分
+       </time>
+<placeName corresp="#place_新橋">
+        新橋
+       </placeName>
+       発ノ汽車ニテ
+       <placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       ニ抵ル、汽車中
+       <persName corresp="#pers_芳川顕正">
+<surname>
+         芳川
+        </surname>
+<forename>
+         顕正
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_松本壮一郎">
+<surname>
+         松本
+        </surname>
+<forename>
+         壮一郎
+        </forename>
+</persName>
+       《（
+       <persName corresp="#pers_松本荘一郎">
+<surname>
+         松本
+        </surname>
+<forename>
+         荘一郎
+        </forename>
+</persName>
+       ）》、
+       <orgName>
+        日本銀行
+       </orgName>
+       員数名同乗ス、
+       <time when="16:00:00">
+        午後四時
+       </time>
+       過ル頃禱竜館ニ投宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10008m-0002">
+<head>
+<date when="1899-01-02">
+        一月二日
+       </date>
+</head>
+<p>
+       晴少曇、朝来二三来客に接ス、昨夜ヨリ聊感冒ノ気味ナレハ入浴スルヲ得ス、終日無事、古文真宝又ハ古今集等ノ書ヲ読ム、夜ニ入リテ晴月色殊ニ清シ
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10008m-0003">
+<head>
+<date when="1899-01-03">
+        一月三日
+       </date>
+</head>
+<p>
+       曇午後快晴、
+       <persName corresp="#pers_西村勝三">
+<surname>
+         西村
+        </surname>
+<forename>
+         勝三
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_八十島親徳">
+<surname>
+         八十島
+        </surname>
+<forename>
+         親徳
+        </forename>
+</persName>
+       等来ル、終日読書又ハ遊戯ニ消閑ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10008m-0004">
+<head>
+<date when="1899-01-04">
+        一月四日
+       </date>
+</head>
+<p>
+       晴、朝来揮毫ニ従事ス、蓋シ昨年来托セラレタル題字又ハ額面〓本等数十葉書シ、畢テ午餐シ、食後海辺ニ徜徉ス、此夜
+       <persName corresp="#pers_伊藤">
+<surname>
+         伊藤
+        </surname>
+</persName>
+       侯爵来訪セラル、間談数刻ニシテ帰ル、
+       <persName corresp="#pers_小川正直">
+<surname>
+         小川
+        </surname>
+<forename>
+         正直
+        </forename>
+</persName>
+       氏来ル
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10008m-0005">
+<head>
+<date when="1899-01-05">
+        一月五日
+       </date>
+</head>
+<p>
+       晴強風、昨日未タ畢ラサル題字、額面数葉ヲ揮毫ス、
+       <time when="10:00:00">
+        午前十時
+       </time>
+<persName corresp="#pers_岩崎弥之助">
+<surname>
+         岩崎
+        </surname>
+<forename>
+         弥
+         <pb corresp="#pageB1069" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/95/full/max/0/default.jpg" n="B1069" source="#pageB1069"></pb>
+</forename>
+</persName>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10022m"><front>
+<head>
+<date when="1914">
+       大正三年
+      </date>
+      1914
+     </head>
+<div type="archival-description">
+<p>
+       ○原本概要
+      </p>
+<p>
+       書名。
+       <date when="1914">
+        大正三年
+       </date>
+       新式当用日記。
+      </p>
+<p>
+       体裁。四六判13.6cm×19.7cm背金文字。クロース茶色。見返シ一ニ
+       <date when="1914">
+        大正三年
+       </date>
+       暦要覧ヲ印刷、二、三、四ハ白無地。
+      </p>
+<p>
+       扉。大正参年新式当用日記ト上部ニ右横読ミニ印刷、中央ニ花形カツト、下辺ニカコミ空欄ヲ掲グ。
+      </p>
+<p>
+       本文。四〇九頁。各月ノ初メニ二頁宛ソノ月ノ行事等ヲ掲グ。一日一頁宛トシ、本文記入欄十四行、ソノ上部ニ、曜日、新旧月日、干支、経過未経過日数、重要記事記入欄、気象記入カツトヲ掲グ。尚欄外ノド側ニ詩歌格言、九星運勢等、ミミ側ニ粍目盛ヲ印刷ス。記入ハ総テ鉛筆書キ。
+      </p>
+<p>
+       奥付。
+       <date when="1913-11-01">
+        大正二年十一月一日
+       </date>
+       印刷、
+       <date when="1913-11-07">
+        大正二年十一月七日
+       </date>
+       発行。新式当用日記奥付正価金五拾五銭。編輯兼発行者
+       <placeName corresp="#place_東京市日本橋区通一丁目十九番地">
+        東京市日本橋区通一丁目十九番地
+       </placeName>
+<persName corresp="#pers_大倉保五郎">
+<surname>
+         大倉
+        </surname>
+<forename>
+         保五郎
+        </forename>
+</persName>
+       。印刷者
+       <placeName corresp="#place_東京市日本橋区通一丁目十九番地">
+        東京市日本橋区通一丁目十九番地
+       </placeName>
+<persName corresp="#pers_村田豊吉">
+<surname>
+         村田
+        </surname>
+<forename>
+         豊吉
+        </forename>
+</persName>
+       。印刷所
+       <placeName corresp="#place_東京市京橋区新栄町五丁目七番地">
+        東京市京橋区新栄町五丁目七番地
+       </placeName>
+       大倉印刷所。発行所
+       <placeName corresp="#place_東京市日本橋通一丁目十九番地">
+        東京市日本橋通一丁目十九番地
+       </placeName>
+       大倉書店。電話本局四一四番・二四〇四番。振替口座東京二三八番。
+      </p>
+<p>
+       前付並ニ後付。略ス。
+      </p>
+</div>
+</front>
+<body>
+<div type="note" xml:id="DKB10022m-0001">
+<p>
+       ［見返し。二］
+      </p>
+<p>
+       偶成
+      </p>
+<p>
+       未必機心付死灰。此行何啻水雲媒。笑吾論語算盤説。慫惥中算企業来《（慂）》
+      </p>
+<p>
+       画錦何時奏凱還。此間無物慰衰顔。病軀難浴洙川水。只自照相望泰山
+      </p>
+<p>
+<placeName corresp="#place_支那">
+        支那
+       </placeName>
+       漫遊偶成
+      </p>
+<p>
+       未必機心付死灰。此行何啻水雲媒。笑吾論語算盤響。鼓動中算企業来
+      </p>
+<p>
+<placeName corresp="#place_天津市">
+        天津
+       </placeName>
+       客舎書感
+      </p>
+<p>
+       折桂何時更躋攀。客窓無物慰衰顔。病軀難浴洙川水。只自照相望泰山
+      </p>
+<p>
+       万寿山
+      </p>
+<p>
+       数頃御溝水満隄。粉牆楼聳玉堂西。行人休問仏香閣。一帯垂楊路不迷
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10022m-0002">
+<head>
+<date when="1914-01-01">
+        一月一日
+       </date>
+       木　快晴　無風寒気強シ
+      </head>
+<p>
+<time when="08:00:00">
+        午前八時
+       </time>
+       起床、静坐入浴等ニテ
+       <time when="09:00:00">
+        九時
+       </time>
+       新衣ヲ着ケ、家族一同屠蘇酒ヲ飲ミ雑煮餠ヲ食ス、後、従僕男女多数ノ祝賀ヲ受ク、
+       <time when="11:00:00">
+        午前十一時
+       </time>
+       家族一同自働車ニテ
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       ニ抵リ、
+       <orgName>
+        第一銀行
+       </orgName>
+       員及各会社員、親戚、故旧又ハ事
+       <pb corresp="#pageB1765" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/791/full/max/0/default.jpg" n="B1765" source="#pageB1765"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

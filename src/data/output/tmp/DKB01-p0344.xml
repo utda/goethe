@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10011m"><body><div type="diary-entry" xml:id="DKB10011m-0320"><p>
+<lb></lb>
+       雨、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、
+       <placeName corresp="#place_葉山">
+        葉山
+       </placeName>
+<persName corresp="#pers_桂">
+<surname>
+         桂
+        </surname>
+</persName>
+       総理ヲ訪問スルノ予定ナリシモ、天候悪ク、且聊腹部ヲ損セシヲ以テ見合セテ家ニ在テ休養ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0321">
+<head>
+<date when="1903-07-06">
+        七月六日
+       </date>
+</head>
+<p>
+       曇、微恙平愈ニ至ラサルヲ以テ家ニ在テ静養ニ勉ム、来人ニ接シ書類ヲ整理スルハ平日ノ如クセリ
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0322">
+<head>
+<date when="1903-07-07">
+        七月七日
+       </date>
+</head>
+<p>
+       晴、此日モ下痢未タ平愈セサルヲ以テ家ニ在テ休養ス、午前ヨリ書類ヲ整理シ諸方ニ出状ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0323">
+<head>
+<date when="1903-07-08">
+        七月八日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ来人ニ接ス、此日ハ
+       <orgName>
+        日本郵船会社
+       </orgName>
+       重役会日ナルモ、病全愈セサルヲ以テ謝絶ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0324">
+<head>
+<date when="1903-07-09">
+        七月九日
+       </date>
+</head>
+<p>
+       大風、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、病既ニ愈ルヲ以テ出勤セントスルモ風雨ノ為外出ヲ見合ハス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0325">
+<head>
+<date when="1903-07-10">
+        七月十日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、
+       <time when="10:00:00">
+        十時
+       </time>
+<placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵リ来人ニ接ス、此日浦賀船渠会社重役会ヲ事務所ニ開ク、畢テ
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ出勤シ事務ヲ談ス夜偕楽会ニ出席シテ後
+       <placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       宅ニ帰宿ス
+       <lb></lb>
+<date evidence="year inferenced" when="1903-07-11">
+        七月十一日
+       </date>
+       ヨリ
+       <date evidence="year inferenced, month" when="1903-07-31">
+        三十一日
+       </date>
+       迄ノ日記ハ、多忙ノ為メ記載ヲ欠キタルヲ以テ
+       <date evidence="year inferenced, day" when="1903-08">
+        八月
+       </date>
+       ヨリ之ヲ更始ス
+      </p>
+</div>
+<div type="note" xml:id="DKB10011m-0326">
+<head>
+       ○
+       <date when="1903-07-11">
+        七月十一日
+       </date>
+       ヨリ
+       <date when="1903-07-31">
+        三十一日
+       </date>
+       マデノ記事ヲ欠ク。
+      </head>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0327">
+<head>
+<date when="1903-08-01">
+        八月一日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       朝飧ヲ畢リ、
+       <time when="09:00:00">
+        九時
+       </time>
+<placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵リ要務ヲ処理ス、午後
+       <orgName>
+        第一銀行
+       </orgName>
+       ニ出勤ス、夜
+       <time when="19:30:00">
+        七時半
+       </time>
+<placeName corresp="#place_支那">
+        支那
+       </placeName>
+       公使館ノ宴会ニ出席ス、
+       <persName corresp="#pers_榎本">
+<surname>
+         榎本
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_長岡">
+<surname>
+         長岡
+        </surname>
+</persName>
+<persName corresp="#pers_益田">
+<surname>
+         益田
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_大倉">
+<surname>
+         大倉
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_加藤">
+<surname>
+         加藤
+        </surname>
+</persName>
+       ノ諸氏来会ス、夜
+       <time when="23:00:00">
+        十一時
+       </time>
+<placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0328">
+<head>
+<date when="1903-08-02">
+        八月二日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、庭中ヲ散歩ス、此日ハ日曜ナルヲ以テ家ニ在テ書類ヲ整理ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0329">
+<head>
+<date when="1903-08-03">
+        八月三日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、書状ヲ裁シ来人ニ接ス、
+       <placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       ニ要務ナキヲ以テ家ニ在テ休息ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0330">
+<head>
+<date when="1903-08-04">
+        八月四日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、
+       <time when="09:00:00">
+        九時
+       </time>
+<placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵リ浦賀船渠会社重役ヲ開キ、マニラ政庁ヨリ注文アリシ砲艦ノ処分ノ事ヲ協議ス、畢テ京釜鉄道会社常務取締役三氏来会シテ社債発行ノ方法ヲ協議ス、夕方
+       <placeName corresp="#place_浜町">
+        浜町
+       </placeName>
+       宅ニ帰宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10011m-0331">
+<head>
+<date when="1903-08-05">
+        八月五日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝飧ヲ畢リ、
+       <time when="09:00:00">
+        九時
+       </time>
+<placeName corresp="#place_日本橋兜町">
+        兜町
+       </placeName>
+       事務所ニ抵リ、
+       <time when="10:00:00">
+        十時
+       </time>
+<orgName>
+        日本銀行
+       </orgName>
+       ニ於テ京釜鉄道会社々債ノ事ヲ協議ス、
+       <persName corresp="#pers_山本">
+<surname>
+         山本
+        </surname>
+</persName>
+       総裁ヨリ種々各行主任者ニ依頼アリ、余ハ京釜ノ重役ヲ代表シテ事情ヲ縷陳ス、来会スル者七名、
+       <time when="12:00:00">
+        十二時
+       </time>
+       散会ス、
+       <time when="13:00:00">
+        午後一時
+       </time>
+<placeName corresp="#place_築地">
+        築地
+       </placeName>
+       メトルホール・ホテルニ抵リ英人ホジソン氏ノ招宴ニ列ス、ホジソン氏ハベヤリング銀行重役長男ニシテ、過般我邦ニ来遊シ数日前
+       <placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ニ訪問セラレシ人ナリ、畢テ
+       <time when="15:00:00">
+        午後三時
+       </time>
+<orgName>
+        日本郵船会社
+       </orgName>
+       重役会ニ出席ス、
+       <time when="17:00:00">
+        五時
+       </time>
+       銀行集会所ニ抵リ手形交換所ノ月
+       <pb corresp="#pageB1318" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/344/full/max/0/default.jpg" n="B1318" source="#pageB1318"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

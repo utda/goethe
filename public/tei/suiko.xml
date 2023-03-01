@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>水滸伝全本(E46386)テキストデータ</title>
+                <author>
+     ほげほげ
+                </author>
+                <respStmt>
+
+                    <resp>
+      テキストデータの作成
+                    </resp>
+
+                    <persName corresp="#pers_荒木">
+      荒木
+                    </persName>
+
+                </respStmt>
+
+                <respStmt>
+
+                    <resp>
+      テキストエンコーディング
+                    </resp>
+
+                    <persName corresp="#pers_中村覚">
+      中村覚
+                    </persName>
+
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+            <publisher>
+     U-PARL
+    </publisher>
+                <availability>
+
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+
+                </availability>
+
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+     すいこでん
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+        <projectDesc>
+
+				<p>
+     U-PARLのプロジェクトの成果物です。
+                </p>
+                </projectDesc>
+                </encodingDesc>
+    </teiHeader>
+    <facsimile source="/o-viewer2/tei/suiko.json">
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p1">
+            <zone xml:id="zone_1"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p2">
+            <zone xml:id="zone_2"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p3">
+            <zone xml:id="zone_3"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p4">
+            <zone xml:id="zone_4"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p5">
+            <zone xml:id="zone_5"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p6">
+            <zone xml:id="zone_6"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p7">
+            <zone xml:id="zone_7"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p8">
+            <zone xml:id="zone_8"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p9">
+            <zone xml:id="zone_9"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p10">
+            <zone xml:id="zone_10"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p11">
+            <zone xml:id="zone_11"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p12">
+            <zone xml:id="zone_12"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p13">
+            <zone xml:id="zone_13"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p14">
+            <zone xml:id="zone_14"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p15">
+            <zone xml:id="zone_15"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p16">
+            <zone xml:id="zone_16"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p17">
+            <zone xml:id="zone_17"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p18">
+            <zone xml:id="zone_18"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p19">
+            <zone xml:id="zone_19"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p20">
+            <zone xml:id="zone_20"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p21">
+            <zone xml:id="zone_21"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p22">
+            <zone xml:id="zone_22"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p23">
+            <zone xml:id="zone_23"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p24">
+            <zone xml:id="zone_24"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p25">
+            <zone xml:id="zone_25"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p26">
+            <zone xml:id="zone_26"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p27">
+            <zone xml:id="zone_27"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p28">
+            <zone xml:id="zone_28"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p29">
+            <zone xml:id="zone_29"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p30">
+            <zone xml:id="zone_30"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p31">
+            <zone xml:id="zone_31"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p32">
+            <zone xml:id="zone_32"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p33">
+            <zone xml:id="zone_33"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p34">
+            <zone xml:id="zone_34"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p35">
+            <zone xml:id="zone_35"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p36">
+            <zone xml:id="zone_36"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p37">
+            <zone xml:id="zone_37"/>
+            <zone lrx="2492" lry="3536" ulx="2352" uly="3384" xml:id="zone_l01-0037-1b-4-14"/>
+            <zone lrx="2504" lry="4074" ulx="2366" uly="3692" xml:id="zone_l01-0037-1b-4-16"/>
+            <zone lrx="2084" lry="1636" ulx="1928" uly="1460" xml:id="zone_l01-0037-1b-6-3"/>
+            <zone lrx="2076" lry="2200" ulx="1928" uly="1952" xml:id="zone_l01-0037-1b-6-6"/>
+            <zone lrx="1636" lry="3068" ulx="1500" uly="2808" xml:id="zone_l01-0037-1b-8-11"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p38">
+            <zone xml:id="zone_38"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p39">
+            <zone xml:id="zone_39"/>
+            <zone lrx="4444" lry="1172" ulx="4048" uly="928" xml:id="zone_l01-0039-2b-8-"/>
+            <zone lrx="5540" lry="4846" ulx="5310" uly="4560" xml:id="zone_l01-0039-2b-3-"/>
+            <zone lrx="4704" lry="834" ulx="4512" uly="574" xml:id="zone_l01-0039-2b-7-"/>
+            <zone lrx="4740" lry="3512" ulx="4564" uly="3340" xml:id="zone_l01-0039-2b-7-14"/>
+            <zone lrx="2708" lry="1224" ulx="2480" uly="956" xml:id="zone_l01-0039-3a-4-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p40">
+            <zone xml:id="zone_40"/>
+            <zone lrx="4902" lry="1186" ulx="4444" uly="906" xml:id="zone_l01-0040-3b-6-"/>
+            <zone lrx="3358" lry="1174" ulx="2998" uly="914" xml:id="zone_l01-0040-4a-1-"/>
+            <zone lrx="2042" lry="1182" ulx="1686" uly="902" xml:id="zone_l01-0040-4a-7-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p41">
+            <zone xml:id="zone_41"/>
+            <zone lrx="5776" lry="1180" ulx="5292" uly="904" xml:id="zone_l01-0041-4b-2-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p42">
+            <zone xml:id="zone_42"/>
+            <zone lrx="5514" lry="1164" ulx="5040" uly="832" xml:id="zone_l01-0042-5b-3-"/>
+            <zone lrx="2488" lry="1120" ulx="2192" uly="832" xml:id="zone_l01-0042-6a-5-"/>
+            <zone lrx="1492" lry="1136" ulx="1076" uly="828" xml:id="zone_l01-0042-6a-9-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p43">
+            <zone xml:id="zone_43"/>
+            <zone lrx="5536" lry="1176" ulx="5336" uly="816" xml:id="zone_l01-0043-6b-3-"/>
+            <zone lrx="1396" lry="1172" ulx="992" uly="828" xml:id="zone_l01-0043-7a-10-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p44">
+            <zone xml:id="zone_44"/>
+            <zone lrx="4072" lry="1172" ulx="3732" uly="992" xml:id="zone_l01-0044-7b-10-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p45">
+            <zone xml:id="zone_45"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p46">
+            <zone xml:id="zone_46"/>
+            <zone lrx="5108" lry="1124" ulx="4624" uly="508" xml:id="zone_l01-0046-9b-5-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p47">
+            <zone xml:id="zone_47"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p48">
+            <zone xml:id="zone_48"/>
+            <zone lrx="5512" lry="1232" ulx="5250" uly="940" xml:id="zone_l01-0048-11b-3-"/>
+            <zone lrx="4870" lry="1246" ulx="4708" uly="940" xml:id="zone_l01-0048-11b-6-"/>
+            <zone lrx="1362" lry="1240" ulx="1076" uly="944" xml:id="zone_l01-0048-12a-10-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p49">
+            <zone xml:id="zone_49"/>
+            <zone lrx="2888" lry="1200" ulx="2616" uly="868" xml:id="zone_l01-0049-13a-3-"/>
+            <zone lrx="2944" lry="1544" ulx="2772" uly="1120" xml:id="zone_l01-0049-13a-3-1"/>
+            <zone lrx="2908" lry="4562" ulx="2802" uly="4038" xml:id="zone_l01-0049-13a-9-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p50">
+            <zone xml:id="zone_50"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p51">
+            <zone xml:id="zone_51"/>
+            <zone lrx="5588" lry="1208" ulx="5244" uly="512" xml:id="zone_l01-0051-14b-3-"/>
+            <zone lrx="5280" lry="1224" ulx="4856" uly="504" xml:id="zone_l01-0051-14b-4-"/>
+            <zone lrx="4656" lry="1228" ulx="4260" uly="876" xml:id="zone_l01-0051-14b-7-"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p52">
+            <zone xml:id="zone_52"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p53">
+            <zone xml:id="zone_53"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p54">
+            <zone xml:id="zone_54"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p55">
+            <zone xml:id="zone_55"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p56">
+            <zone xml:id="zone_56"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p57">
+            <zone xml:id="zone_57"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p58">
+            <zone xml:id="zone_58"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p59">
+            <zone xml:id="zone_59"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p60">
+            <zone xml:id="zone_60"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p61">
+            <zone xml:id="zone_61"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p62">
+            <zone xml:id="zone_62"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p63">
+            <zone xml:id="zone_63"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p64">
+            <zone xml:id="zone_64"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p65">
+            <zone xml:id="zone_65"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p66">
+            <zone xml:id="zone_66"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p67">
+            <zone xml:id="zone_67"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p68">
+            <zone xml:id="zone_68"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p69">
+            <zone xml:id="zone_69"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p70">
+            <zone xml:id="zone_70"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p71">
+            <zone xml:id="zone_71"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p72">
+            <zone xml:id="zone_72"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p73">
+            <zone xml:id="zone_73"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p74">
+            <zone xml:id="zone_74"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p75">
+            <zone xml:id="zone_75"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p76">
+            <zone xml:id="zone_76"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p77">
+            <zone xml:id="zone_77"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p78">
+            <zone xml:id="zone_78"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p79">
+            <zone xml:id="zone_79"/>
+        </surface>
+        <surface source="https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d3b3384b-4546-42ad-af78-09d46ab1cd65/canvas/p80">
+            <zone xml:id="zone_80"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb corresp="#zone_37"/>
+                <ab>
+                    <lb xml:id="l01-0037-a-1"/>
+                    <seg>水滸傳全本卷之一</seg>
+                    <lb xml:id="l01-0037-a-2"/>
+                    <seg>
+                        <space quantity="4"/>
+元                        <space quantity="1"/>
+施耐菴編                        <space quantity="3"/>
+明李卓吾評點</seg>
+                    <lb xml:id="l01-0037-a-3"/>
+                    <seg>
+                        <space quantity="2"/>
+開詞</seg>
+                    <lb xml:id="l01-0037-a-4"/>
+                    <seg>試看古今如箭牽不住日月奔忙草生纔解凍花落</seg>
+                    <lb xml:id="l01-0037-a-5"/>
+                    <seg>又飛霜閒庭無事日偏長爲歡處儘                        <note type="書" subtype="夾">皆</note>費端                        <note type="書" subtype="夾">公案十 ニ七■</note>詳今宵睡
+                    </seg>
+                    <lb xml:id="l01-0037-a-6"/>
+                    <seg>鄉明朝醉鄕悠悠忽忽莫追償不關心底事野老話</seg>
+                    <lb xml:id="l01-0037-a-7"/>
+                    <seg>興亡拋                        <note type="書" subtype="夾">方</note>撇玄纁                        <note type="書" subtype="夾">赤色</note>玉帛摩娑戈劒刀鎗笑官家誨盜山
+                    </seg>
+                    <lb xml:id="l01-0037-a-8"/>
+                    <seg>河大寳無計收藏龍爭虎鬬自言                        <choice>
+                            <orig>强</orig>
+                            <reg type="damage">強</reg>
+                        </choice>正船到波心易
+                    </seg>
+                    <lb xml:id="l01-0037-a-9"/>
+                    <seg>漏棊逢敵手難當好烈烈轟                        <note type="書" subtype="夾">音荒</note>轟做一塲麒麟閣上姓
+                    </seg>
+                    <lb xml:id="l01-0037-a-10"/>
+                    <seg>名香告君行把英雄事業仔細思量</seg>
+                </ab>
+                </div>
+        </body>
+    </text>
+</TEI>

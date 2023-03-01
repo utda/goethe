@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><front><div type="contents" xml:id="DKB10002e-0001">
+<list type="gloss">
+<item>
+<list>
+<item>
+<list>
+<item>
+          写真（巻頭)
+         </item>
+<item>
+          解題…………………………………………………………………………　　　一
+         </item>
+<item>
+          凡例…………………………………………………………………………　　　六
+         </item>
+</list>
+</item>
+</list>
+</item>
+</list>
+<list type="gloss">
+<head>
+<label>
+       日記（一）
+      </label>
+</head>
+<item>
+      自
+      <date type="旧暦" when="1868-08-02">
+       慶応四年六月十四日
+      </date>
+      至
+      <date type="旧暦" when="1868-12-15">
+       明治元年十一月二日
+      </date>
+      …………………………………　　　一
+     </item>
+<item>
+      自
+      <date type="旧暦" when="1868-12-16">
+       明治元年十一月三日
+      </date>
+      至
+      <date type="旧暦" when="1869-02-28">
+       明治二年正月十八日
+      </date>
+      …………………………………　　二七
+     </item>
+<item>
+      自
+      <date type="旧暦" when="1869-11-24">
+       明治二年十月二十一日
+      </date>
+      至
+      <date type="旧暦" when="1869-12-21">
+       同年十一月十九日
+      </date>
+      …………………………………　　四二
+     </item>
+<item>
+<date when="1884">
+       明治十七年
+      </date>
+<list>
+<item>
+        西遊日記
+        <date when="1884-05-28">
+         五月二十八日
+        </date>
+        ―
+        <date when="1884-06-17">
+         六月十七日
+        </date>
+        …………………………………………　　五〇
+       </item>
+<item>
+        甲申京摂巡回日記
+        <date when="1884-05-31">
+         五月三十一日
+        </date>
+        ―
+        <date when="1884-07-01">
+         七月一日
+        </date>
+        …………………………………　　五四
+       </item>
+</list>
+</item>
+<item>
+<date when="1886">
+       明治十九年
+      </date>
+<list>
+<item>
+        四日市伏木新潟巡回紀行
+        <date when="1886-05-26">
+         五月二十六日
+        </date>
+        ―
+        <date evidence="year" when="1886-06-19">
+         六月十九日
+        </date>
+        ……………………　　五九
+       </item>
+<item>
+        京坂巡回紀行
+        <date when="1886-12-08">
+         十二月八日
+        </date>
+        ―
+        <date when="1886-12-17">
+         十二月十七日
+        </date>
+        …………………………………　　六三
+       </item>
+</list>
+</item>
+<item>
+<date when="1899">
+       明治三十二年
+      </date>
+<date when="1899-01-01">
+       一月一日
+      </date>
+      ―
+      <date when="1899-12-31">
+       十二月三十一日
+      </date>
+      …………………………………………　　六八
+     </item>
+<item>
+      自
+      <date evidence="day" when="1900-01">
+       明治三十三年一月
+      </date>
+      至
+      <date evidence="day" when="1901-05">
+       明治三十四年五月
+      </date>
+      ……………………………………………　一一八
+     </item>
+<item>
+<pb corresp="#pageB1f23" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/23/full/max/0/default.jpg" n="B1f23" source="#pageB1f23"></pb>
+</item>
+</list>
+</div>
+</front>
+</text>

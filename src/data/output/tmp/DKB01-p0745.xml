@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10020m"><front>
+<head>
+<date when="1912">
+       明治四十五年
+      </date>
+      1912
+     </head>
+<div type="archival-description">
+<p>
+       ○原本概要
+      </p>
+<p>
+       書名。
+       <date when="1912">
+        明治四十五年
+       </date>
+       当用日記。
+      </p>
+<p>
+       体裁。四六判13.6cm×19.7cm背革金文字、表紙クロス、オリーブ色。見返シ、茶緑色白ヌキ松葉模様。
+      </p>
+<p>
+       扉。
+       <date when="1912">
+        明治四十五年
+       </date>
+       当用日記ト中央ニ、ソノ右肩ニ
+       <date evidence="year inferenced" when="1912">
+        神武天皇紀元二千五百七十二年
+       </date>
+<date evidence="year inferenced" when="1912">
+        西暦紀元一千九百十二年
+       </date>
+       壬子。左下ニ
+       <placeName corresp="#place_東京">
+        東京
+       </placeName>
+       博文館発行ト印刷、扉裏ニハ七曜表ヲ掲グ。
+      </p>
+<p>
+       本文。三七九頁。一日一頁宛トシ本文記入欄ノ様式前年ニ同ジ。記入ハ総テ鉛筆書キ。
+      </p>
+<p>
+       奥付。
+       <date when="1911-10-07">
+        明治四十四年十月七日
+       </date>
+       印刷、
+       <date when="1911-10-10">
+        明治四十四年十月十日
+       </date>
+       発行。三版。不許複製。当用日記中形特製奥付定価金五拾銭。○以下法定記載事項前年ニ同ジ、略ス。
+      </p>
+<p>
+       前付並ニ後付。略ス。
+      </p>
+</div>
+</front>
+<body>
+<div type="diary-entry" xml:id="DKB10020m-0001">
+<head>
+<date when="1912-01-01">
+        一月一日
+       </date>
+       月　晴　寒
+      </head>
+<p>
+<time when="07:00:00">
+        午前七時
+       </time>
+       起床、昨年ヨリノ宿痾稍快方ナルヲ以テ入浴シテ後、家人ト共ニ年賀ノ祝杯ヲ挙ク、食後各新聞紙ヲ通覧シ、
+       <time when="10:00:00">
+        十時
+       </time>
+       児童等及
+       <persName corresp="#pers_明石">
+<surname>
+         明石
+        </surname>
+</persName>
+       ト共ニ自働車ニテ事務所ニ抵リ、
+       <orgName>
+        第一銀行
+       </orgName>
+       員、各会社及事務所員等ノ新年祝賀ヲ受ク、
+       <time when="11:00:00">
+        十一時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ抵リ、行員一同ニ新年ニ付テ感想ヲ述ヘ且一場ノ訓示ヲ為ス、畢テ共ニ祝盃ヲ挙ク、
+       <time when="12:00:00">
+        十二時
+       </time>
+       帝国劇場会社ニ抵リ、社員一同、男女俳優、其他道具方マテ会同シテ新年ノ祝盃ヲ挙ケ、一言ノ訓示ヲ為シテ共ニ立食ス、畢テ
+       <time when="15:00:00">
+        三時
+       </time>
+<placeName corresp="#place_王子">
+        王子
+       </placeName>
+       ニ帰宿ス、後、揮毫ヲ試ム、夜ニ至テ止ム、夜食後、児童等ト遊戯ス
+       <lb></lb>
+<placeName corresp="#place_滝野川">
+        滝野川
+       </placeName>
+       在郷軍人会長某氏来リテ賛成ノ事ヲ依頼セラル
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10020m-0002">
+<head>
+<date when="1912-01-02">
+        一月二日
+       </date>
+       火　晴　寒　風強シ
+      </head>
+<p>
+<time when="08:00:00">
+        午前八時
+       </time>
+       起床、半身浴ヲ為シテ後、家人ト共ニ屠蘇酒ノ祝盃ヲ挙ク、朝飧後種々ノ祝賀客ニ接ス、延暦寺大僧正来訪セラル、本年ヨリ住職スルトノ事ナリ、且、本年ハ
+       <placeName corresp="#place_比叡">
+        比叡
+       </placeName>
+       登山ノ事ヲ勧誘セラル、
+       <persName corresp="#pers_織田一">
+<surname>
+         織田
+        </surname>
+<forename>
+         一
+        </forename>
+</persName>
+       氏来リ、一昨年開催セシ生産調査会ニ於テ調査セシ事項ノ成績ヲ調査シタル書類ヲ携帯シテ其手続ヲ説明セラル、
+       <persName corresp="#pers_穂積">
+<surname>
+         穂積
+        </surname>
+</persName>
+       夫妻、
+       <persName corresp="#pers_成瀬">
+<surname>
+         成瀬
+        </surname>
+</persName>
+       校長、
+       <persName corresp="#pers_横山徳次郎">
+<surname>
+         横山
+        </surname>
+<forename>
+         徳次郎
+        </forename>
+</persName>
+       父子三人来訪ス、
+       <time when="15:00:00">
+        午後三時
+       </time>
+       ヨリ
+       <orgName>
+<orgName>
+         帝国ホテル
+        </orgName>
+</orgName>
+       ニ抵リ、市内実業家ノ新年祝賀会ニ出席ス、
+       <persName corresp="#pers_阪谷">
+<surname>
+         阪谷
+        </surname>
+</persName>
+       男ノ
+       <placeName corresp="#place_支那">
+        支那
+       </placeName>
+       ニ関スル演説アリ、食卓上一場ノ祝賀演説ヲ為ス、夜
+       <time when="19:00:00">
+        七時
+       </time>
+       過会食畢テ
+       <placeName corresp="#place_王子">
+        王子
+       </placeName>
+       ニ帰宿、夜、児童等ト歌留多ノ遊戯ヲ為ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10020m-0003">
+<head>
+<date when="1912-01-03">
+        一月三日
+       </date>
+       水　晴　寒
+      </head>
+<p>
+<time when="08:30:00">
+        午前八時半
+       </time>
+       起床、先ツ入浴シテ後屠蘇酒ノ祝盃ヲ挙ケ雑煮ヲ食ス、畢テ
+       <persName corresp="#pers_蓮沼門三">
+<surname>
+         蓮沼
+        </surname>
+<forename>
+         門三
+        </forename>
+</persName>
+       氏ノ来訪ニ接シ、修養団昨年来ノ経過ヲ聞キ本年ノ経営方法ヲ談ス、
+       <persName corresp="#pers_阪谷">
+<surname>
+         阪谷
+        </surname>
+</persName>
+       男爵夫妻、
+       <persName corresp="#pers_猪飼正雄">
+<surname>
+         猪飼
+        </surname>
+<forename>
+         正雄
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_渋沢義一">
+<surname>
+         渋沢
+        </surname>
+<forename>
+         義一
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_古河虎之助">
+<surname>
+         古河
+        </surname>
+<forename>
+         虎之助
+        </forename>
+</persName>
+       等ノ数氏来賀ス、午飧後、
+       <persName corresp="#pers_渋沢正雄">
+<forename>
+         正雄
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_渋沢秀雄">
+<forename>
+         秀雄
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_阪谷希一">
+<forename>
+         希一
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_佐々木哲助">
+<surname>
+         佐々木
+        </surname>
+<forename>
+         哲助
+        </forename>
+</persName>
+       等《（
+       <persName corresp="#pers_佐々木哲亮">
+<surname>
+         佐々木
+        </surname>
+<forename>
+         哲亮
+        </forename>
+</persName>
+       ）》ヲ伴フテ
+       <placeName corresp="#place_浅草">
+        浅草
+       </placeName>
+       ニ抵リ活動写真ヲ見ル、
+       <time when="16:00:00">
+        午後四時
+       </time>
+       過帰宿ス、夜飧後、新聞紙并雑誌類ヲ一覧ス、又、児童等ト共ニ遊戯ス
+      </p>
+</div>
+<pb corresp="#pageB1719" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/745/full/max/0/default.jpg" n="B1719" source="#pageB1719"></pb>
+</body>
+</text>
+</group>
+</text>

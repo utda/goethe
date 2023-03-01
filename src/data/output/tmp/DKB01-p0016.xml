@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><front>
+<div type="preface" xml:id="DKB10000c-0001">
+<head>
+     解題
+    </head>
+<p>
+     現存する
+     <persName corresp="#pers_渋沢栄一">
+<surname>
+       渋沢
+      </surname>
+<forename>
+       栄一
+      </forename>
+</persName>
+     の自筆日記は三十一冊あり、今回渋沢栄一伝記資料別巻として刊行するのはその総てである。別巻第一には
+     <date when="1868">
+      慶応四年
+     </date>
+     より
+     <date when="1914">
+      大正三年
+     </date>
+     までを収め、第二には
+     <date when="1915">
+      大正四年
+     </date>
+     より
+     <date when="1930">
+      昭和五年
+     </date>
+     までを収めた。
+    </p>
+<p>
+     この内最も年代の古いものは
+     <date type="旧暦" when="1868-08-02">
+      慶応四年六月十四日
+     </date>
+     から記入している薄い手帖二冊で、
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     滞仏末期から帰国直後の
+     <date type="旧暦" when="1869-02-28">
+      明治二年一月十八日
+     </date>
+     までに至っている日記である。第一冊は帰国直前の
+     <date type="旧暦" when="1868-08-02">
+      六月十四日
+     </date>
+     から初まり
+     <date type="旧暦" when="1868-10-15">
+      八月三十日
+     </date>
+<placeName corresp="#place_パリ">
+      パリ
+     </placeName>
+     を発して帰国の途につき、
+     <date type="旧暦" when="1868-12-15">
+      十一月二日
+     </date>
+     アンペラトリース号が
+     <placeName corresp="#place_日本">
+      日本
+     </placeName>
+     に近づいて
+     <placeName corresp="#place_四国">
+      四国
+     </placeName>
+     、
+     <placeName corresp="#place_和歌山">
+      和歌山
+     </placeName>
+     の山山を望見する所で終っている。第二冊は
+     <date type="旧暦" when="1868-12-16">
+      十一月三日
+     </date>
+<placeName corresp="#place_横浜">
+      横浜
+     </placeName>
+     に着いた日から初まり、帰国直後の行動が記され、
+     <placeName corresp="#place_静岡">
+      静岡
+     </placeName>
+     藩で商法会所御用金取扱を命ぜられた後の
+     <date type="旧暦" when="1869-02-28">
+      明治二年一月十八日
+     </date>
+     で終っている。
+    </p>
+<p>
+     この二冊の手帖は、日記を書くと共に種種の手控も書き込まれてあって、勘定書のメモもあり、第一冊にはフランス語の単語も書き入れてある。第二冊の終りには、
+     <persName corresp="#pers_コロネル">
+      コロネル
+     </persName>
+     に宛てた仏文書翰の写があり、この書翰で
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     は将来の自分はどうなるか計り難いと書いている。当時の
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     の心境を卒直に述べたものであろうと思われる。
+    </p>
+<p>
+     記入は総て鉛筆で書かれている。
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     の日記は単にこの手帖のみでなく、概ね鉛筆書きであるが、この二冊の手帖は後年のものに比して文字が甚しく晦渋なのは怱忙の裡に書き記されたからであったろう。
+    </p>
+<p>
+     帰国後、
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     は静岡藩に「
+     <placeName corresp="#place_パリ">
+      巴里
+     </placeName>
+     御在館日記」の類を提出しているが、手帖はその元のものである。「
+     <placeName corresp="#place_パリ">
+      巴里
+     </placeName>
+     御在館日記」は公的な報告であり、
+     <date type="旧暦" when="1868-10-10">
+      明治元年八月二十五日
+     </date>
+     までで終っているので、以後の
+     <persName corresp="#pers_渋沢栄一">
+<forename>
+       栄一
+      </forename>
+</persName>
+     の行動はこの日記にある訳である。
+    </p>
+<pb corresp="#pageB1f16" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/16/full/max/0/default.jpg" n="B1f16" source="#pageB1f16"></pb>
+</div>
+</front>
+</text>

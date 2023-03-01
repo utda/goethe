@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><front><titlePage>
+<docTitle>
+<titlePart>
+      澁澤栄一傳記資料別巻第一日記
+     </titlePart>
+</docTitle>
+<byline>
+     渋沢青淵記念財団竜門社編纂刊行
+    </byline>
+<note place="overleaf" xml:id="B1f04">
+     背文字
+     <persName corresp="#pers_渋沢栄一">
+<surname>
+       渋沢
+      </surname>
+<forename>
+       栄一
+      </forename>
+</persName>
+     遺墨集字
+    </note>
+</titlePage>
+<pb corresp="#pageB1f04" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/4/full/max/0/default.jpg" n="B1f04" source="#pageB1f04"></pb>
+</front>
+</text>

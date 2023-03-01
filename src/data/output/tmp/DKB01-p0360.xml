@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10012m"><body>
+<div type="note" xml:id="DKB10012m-0020">
+<head>
+       ○
+       <date when="1903-11-22">
+        十一月二十二日
+       </date>
+       ヨリ
+       <date when="1903-12-31">
+        十二月三十一日
+       </date>
+       マデノ記事ヲ欠ク。
+      </head>
+</div>
+<div type="note" xml:id="DKB10012m-0021">
+<head>
+       ○
+       <date evidence="day inferenced" when="1904-01-01">
+        年初
+       </date>
+       ヨリ
+       <date evidence="day inferenced" when="1904-02-29">
+        二月末
+       </date>
+       マデノ記事ヲ欠ク。
+      </head>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0022">
+<head>
+<date when="1904-03-01">
+        明治三十七年三月一日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、病稍愈ルヲ以テ此日始テ病牀ヲ離レテ平常ノ居間ニ起臥スルヲ得タリ、然レトモ未タ執筆等ノ自由ヲ得ス、午後ハ
+       <persName corresp="#pers_加古">
+<surname>
+         加古
+        </surname>
+</persName>
+<persName corresp="#pers_堀井">
+<surname>
+         堀井
+        </surname>
+</persName>
+       ノ二医師来リテ中耳ト身体トノ診察ヲ受ク
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0023">
+<head>
+<date when="1904-03-02">
+        三月二日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、昨日ト同シク病牀ヲ離レテ居間ニ起臥ス、午前ト午後ト各十分間許ノ室内運動ヲ為ス、午後
+       <persName corresp="#pers_諸井恒平">
+<surname>
+         諸井
+        </surname>
+<forename>
+         恒平
+        </forename>
+</persName>
+       来リテ煉瓦会社ノ営業方針ヲ協議ス、
+       <persName corresp="#pers_吉岡新五郎">
+<surname>
+         吉岡
+        </surname>
+<forename>
+         新五郎
+        </forename>
+</persName>
+       来リテ
+       <orgName>
+        人造肥料会社
+       </orgName>
+       ノ事ヲ談ス、
+       <persName corresp="#pers_堀井">
+<surname>
+         堀井
+        </surname>
+</persName>
+       医師来診ス、
+       <persName corresp="#pers_渋沢篤二">
+<forename>
+         篤二
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_渋沢敦子">
+<forename>
+         敦子
+        </forename>
+</persName>
+       等来ル
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0024">
+<head>
+<date when="1904-03-03">
+        三月三日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、昨日ト同シク居間ニ於テ起臥ス、午後室内ノ運動ヲ試ム、
+       <persName corresp="#pers_大川照子">
+<surname>
+         大川
+        </surname>
+<forename>
+         照子
+        </forename>
+</persName>
+       来話ス、
+       <persName corresp="#pers_石井健吾">
+<surname>
+         石井
+        </surname>
+<forename>
+         健吾
+        </forename>
+</persName>
+       来談ス、
+       <persName corresp="#pers_横山徳次郎">
+<surname>
+         横山
+        </surname>
+<forename>
+         徳次郎
+        </forename>
+</persName>
+       氏、
+       <persName corresp="#pers_渋沢武之助">
+<forename>
+         武
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_渋沢正雄">
+<forename>
+         正
+        </forename>
+</persName>
+       二児ト共ニ来ル、修学上ノ事二児ニ諭示ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0025">
+<head>
+<date when="1904-03-04">
+        三月四日
+       </date>
+</head>
+<p>
+       雨又曇、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、起臥昨日ト同シ、午前後ニ於テ室内ノ運動ヲ試ム、日々気力ノ回復ヲ覚フ
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0026">
+<head>
+<date when="1904-03-05">
+        三月五日
+       </date>
+</head>
+<p>
+       雨、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、起臥昨日ト異ナラス、明日
+       <placeName corresp="#place_国府津">
+        国府津
+       </placeName>
+       ニ転地スヘキヲ以テ、旅中ニ要スル書籍等ヲ撰択ス、午後
+       <persName corresp="#pers_穂積歌子">
+<forename>
+         歌子
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_阪谷琴子">
+<forename>
+         琴子
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_尾高">
+<surname>
+         尾高
+        </surname>
+</persName>
+       父子等来話ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0027">
+<head>
+<date when="1904-03-06">
+        三月六日
+       </date>
+</head>
+<p>
+       半晴、
+       <time when="07:00:00">
+        午前七時
+       </time>
+       起床、今日
+       <placeName corresp="#place_国府津">
+        国府津
+       </placeName>
+       ヘ転地ノ予定ナルヲ以テ家人旅装ニ忙シ、午飧後
+       <placeName corresp="#place_飛鳥山邸">
+        王子別荘
+       </placeName>
+       ヲ出テ馬車ニテ
+       <placeName corresp="#place_新橋">
+        新橋
+       </placeName>
+       ニ抵ル、
+       <time when="14:30:00">
+        二時三十分
+       </time>
+       発ノ汽車ニ搭ス、
+       <persName corresp="#pers_穂積陳重">
+<surname>
+         穂積
+        </surname>
+<forename>
+         陳重
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_清水">
+<surname>
+         清水
+        </surname>
+</persName>
+       兄弟 、
+       <persName corresp="#pers_吉岡">
+<surname>
+         吉岡
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_諸井">
+<surname>
+         諸井
+        </surname>
+</persName>
+       等数十名停車場ニ来ル、発車後天気朗晴ナリ、且車中客少クシテ雑沓ノ事ナシ、
+       <placeName corresp="#place_大森">
+        大森
+       </placeName>
+       ヨリ
+       <persName corresp="#pers_中田敬義">
+<surname>
+         中田
+        </surname>
+<forename>
+         敬義
+        </forename>
+</persName>
+       同乗ス、
+       <time when="18:00:00">
+        午後六時
+       </time>
+<placeName corresp="#place_国府津">
+        国府津
+       </placeName>
+       着、国府館《（津脱）》ニ投宿ス、
+       <persName corresp="#pers_渋沢兼子">
+<forename>
+         兼子
+        </forename>
+</persName>
+       及久尾其他ノ婢僕三人随従ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0028">
+<head>
+<date when="1904-03-07">
+        三月七日
+       </date>
+</head>
+<p>
+       晴、
+       <time when="06:00:00">
+        午前六時
+       </time>
+       起床朝飧後日々恪守スヘキ衛生小則ヲ定メテ之ヲ記載ス
+       <lb></lb>
+<time when="06:00:00">
+        午前六時
+       </time>
+       起床、
+       <time when="07:30:00">
+        七時半
+       </time>
+       朝飧、
+       <time when="11:00:00">
+        十一時
+       </time>
+       ヨリ
+       <time when="12:00:00">
+        十二時
+       </time>
+       迄海辺散歩
+       <lb></lb>
+       正午
+       <time when="12:00:00">
+        十二時
+       </time>
+       午飧、
+       <time when="13:00:00">
+        午後一時
+       </time>
+       ヨリ
+       <time when="14:30:00">
+        二時半
+       </time>
+       迄散歩
+       <lb></lb>
+<time when="15:00:00">
+        三時
+       </time>
+       ヨリ
+       <time when="16:00:00">
+        四時
+       </time>
+       ノ間入浴、
+       <time when="18:00:00">
+        六時
+       </time>
+       晩飧、
+       <time when="22:00:00">
+        十時
+       </time>
+       就寝
+       <lb></lb>
+       午前ヨリ午後ニ於テ法帖ノ臨池又ハ家訓ノ浄書ヲ為シ、且海辺ト街上ノ散歩ヲ為ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0029">
+<head>
+<date when="1904-03-08">
+        三月八日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="06:00:00">
+        午前六時
+       </time>
+       起床、朝飧後家訓ノ浄写ヲ為ス、新聞紙及雑書ヲ覧閲ス午後
+       <persName corresp="#pers_八十島親徳">
+<surname>
+         八十島
+        </surname>
+<forename>
+         親徳
+        </forename>
+</persName>
+<placeName corresp="#place_東京">
+        東京
+       </placeName>
+       ヨリ来訪ス、風寒キヲ以テ海辺ノ散歩ヲ止メ室内ニ於テ運動ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10012m-0030">
+<head>
+<date when="1904-03-09">
+        三月九日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="06:00:00">
+        午前六時
+       </time>
+       起床、昨夜ヨリ風邪気ナルニヨリ朝飧後褥中ニ起臥ス、
+       <persName corresp="#pers_尾高次郎">
+<surname>
+         尾高
+        </surname>
+<forename>
+         次郎
+        </forename>
+</persName>
+       ノ来書ニ対シテ明日来
+       <placeName corresp="#place_津">
+        津
+       </placeName>
+       ノ事ヲ電話ニテ申シ遣ス、
+       <placeName corresp="#place_大韓民国">
+        韓国
+       </placeName>
+       殖産
+       <pb corresp="#pageB1334" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/360/full/max/0/default.jpg" n="B1334" source="#pageB1334"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>

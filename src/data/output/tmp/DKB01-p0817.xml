@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><back>
+<docTitle>
+<titlePart>
+     渋沢栄一伝記資料　別巻第一　日記（一）
+    </titlePart>
+</docTitle>
+<docImprint>
+<date when="1966-04-20">
+     昭和四十一年四月二十日
+    </date>
+    印刷（会員頒布）
+    <lb></lb>
+<date when="1966-04-30">
+     昭和四十一年四月三十日
+    </date>
+    発行
+    <lb></lb>
+<publisher>
+     編纂兼発行者　渋沢青渊記念財団竜門社 理事長
+     <name type="person">
+      酒井杏之助
+     </name>
+</publisher>
+<lb></lb>
+    印刷者
+    <placeName corresp="#place_仙台市堤通二十七番地">
+     仙台市堤通二十七番地
+    </placeName>
+    笹気出版印刷株式会社 代表者
+    <name type="person">
+     笹気幸助
+    </name>
+<lb></lb>
+    発行所
+    <pubPlace>
+     東京都北区西ケ原二丁目十六番ノ一
+    </pubPlace>
+<name type="org">
+     渋沢青渊記念財団竜門社
+    </name>
+    電話東京九一一局二三一四番 振替貯金東京第四四五〇二番
+    <lb></lb>
+    印刷用紙
+    <name type="org">
+     王子製紙株式会社
+    </name>
+<lb></lb>
+    クロース
+    <name type="org">
+     日本クロス工業株式会社
+    </name>
+<lb></lb>
+    製本
+    <name type="org">
+     株式会社小林製本所
+    </name>
+</docImprint>
+<pb corresp="#pageB1b02" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/818/full/max/0/default.jpg" n="B1b02" source="#pageB1b02"></pb>
+</back>
+</text>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text type="diary"><group><text n="41000000000" xml:id="DKB10009m"><front>
+<head>
+      自
+      <date evidence="day" when="1900-01">
+       明治三十三年一月
+      </date>
+      至
+      <date evidence="day" when="1901-05">
+       明治三十四年五月
+      </date>
+      1900―1901
+     </head>
+<div type="archival-description">
+<p>
+       ○原本概要
+      </p>
+<p>
+       書名。万民重宝机上日記。
+      </p>
+<p>
+       体裁。菊判22.5cm×15cm.表紙鼠色紙クロス、見返シ、白無地。
+      </p>
+<p>
+       扉。万民重宝机上日記ト中央ニ、ソノ左下ニ約7.5cm×2.2cm.化粧罫カコミノ記入欄ヲ印刷ス。
+      </p>
+<p>
+       本文。縦罫十行淡青色刷、欄外上部各頁ニ詩歌格言等ヲ掲グ。総頁三二〇頁。総テ鉛筆書キ。
+      </p>
+<p>
+       奥付。
+       <date when="1898-12-24">
+        明治三十一年十二月廿四日
+       </date>
+       印刷、
+       <date when="1898-12-27">
+        明治三十一年十二月廿七日
+       </date>
+       発行。定価金参拾銭。発行者
+       <placeName corresp="#place_東京市日本橋区本町三丁目八番地">
+        東京市日本橋区本町三丁目八番地
+       </placeName>
+<persName corresp="#pers_大橋新太郎">
+<surname>
+         大橋
+        </surname>
+<forename>
+         新太郎
+        </forename>
+</persName>
+       。印刷者
+       <placeName corresp="#place_東京市牛込区市ケ谷加賀町一丁目十二番地">
+        東京市牛込区市ケ谷加賀町一丁目十二番地
+       </placeName>
+<persName corresp="#pers_愛敬利世">
+<surname>
+         愛敬
+        </surname>
+<forename>
+         利世
+        </forename>
+</persName>
+       。印刷所
+       <placeName corresp="#place_東京市牛込区市ケ谷加賀町一丁目十二番地">
+        東京市牛込区市ケ谷加賀町一丁目十二番地
+       </placeName>
+       株式会社秀英舎第一工場。発兌元
+       <placeName corresp="#place_東京市日本橋区本町三丁目">
+        東京市日本橋区本町三丁目
+       </placeName>
+       博文館。
+      </p>
+<p>
+       前付並ニ後付。略ス。
+      </p>
+<p>
+       ■■[img図]〓■第二号《（
+       <persName corresp="#pers_渋沢栄一">
+<forename>
+         栄一
+        </forename>
+</persName>
+       鉛筆）》
+      </p>
+<p>
+       自
+       <date when="1900-01-01">
+        明治三十三年一月一日
+       </date>
+       至
+       <date evidence="year inferenced" when="1900-04-05">
+        三十四年四月五日
+       </date>
+       《（
+       <date evidence="year inferenced, day" when="1900-05">
+        五月
+       </date>
+       ）》
+      </p>
+</div>
+</front>
+<body>
+<div type="diary-entry" xml:id="DKB10009m-0001">
+<head>
+<date when="1900-01-01">
+        明治三十三年一月一日
+       </date>
+</head>
+<p>
+       曇、昨夜ヨリ天気アシク寒雲雨ヲ催フス様ナリシカバ、今朝ノ元旦ハ如何アラント気遣ヘシガ幸ニ雨モナカリシ、
+       <time when="08:30:00">
+        八時半
+       </time>
+       ニ新衣ヲ着シ椒酒辛盤ノ嘉儀ヲ為ス、祝賀ノ来客陸続トシテ来ル、家人モ打揃フテ賀詞ヲ述フ、
+       <persName corresp="#pers_阪谷">
+<surname>
+         阪谷
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_佐々木">
+<surname>
+         佐々木
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_市原">
+<surname>
+         市原
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_西園寺">
+<surname>
+         西園寺
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_土岐">
+<surname>
+         土岐
+        </surname>
+</persName>
+       、
+       <persName corresp="#pers_鈴木善三">
+<surname>
+         鈴木
+        </surname>
+<forename>
+         善三
+        </forename>
+</persName>
+       等ノ諸氏皆来リ賀ス、
+       <time when="10:00:00">
+        午前十時
+       </time>
+<orgName>
+        第一銀行
+       </orgName>
+       ニ於テ行員ノ祝賀ヲ受ク、畢テ帰宅、
+       <time when="13:40:00">
+        午後一時四十分
+       </time>
+<placeName corresp="#place_新橋">
+        新橋
+       </placeName>
+       発ノ汽車ニ搭シ、
+       <placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       ニ赴ク、車中
+       <persName corresp="#pers_桂">
+<surname>
+         桂
+        </surname>
+</persName>
+       陸軍大臣、
+       <persName corresp="#pers_横田">
+<surname>
+         横田
+        </surname>
+</persName>
+       司法次官、
+       <persName corresp="#pers_大山">
+<surname>
+         大山
+        </surname>
+</persName>
+       夫人、
+       <persName corresp="#pers_高橋是清">
+<surname>
+         高橋
+        </surname>
+<forename>
+         是清
+        </forename>
+</persName>
+       、
+       <persName corresp="#pers_市原盛宏">
+<surname>
+         市原
+        </surname>
+<forename>
+         盛宏
+        </forename>
+</persName>
+       氏等ニ面話ス、
+       <time when="16:00:00">
+        四時
+       </time>
+       頃
+       <placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       長生館ニ投宿ス、家人児童相会シテ一室団欒ノ楽アリ
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10009m-0002">
+<head>
+<date when="1900-01-02">
+        一月二日
+       </date>
+</head>
+<p>
+       曇、
+       <time when="08:00:00">
+        午前八時
+       </time>
+       朝餐ヲ畢リテ昨年来ノ日記ヲ査ス、
+       <time when="11:30:00">
+        午前十一時三十分
+       </time>
+<placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       発ノ汽車ニ搭シ
+       <placeName corresp="#place_横浜">
+        横浜
+       </placeName>
+       ニ抵リ山手百五拾弐番米人
+       <persName corresp="#pers_モールス">
+<surname>
+         モールス
+        </surname>
+</persName>
+       氏ヲ訪フ、智利国公使、ブアクナ同領事及ダン氏、
+       <persName corresp="#pers_平岡熙">
+<surname>
+         平岡
+        </surname>
+<forename>
+         熙
+        </forename>
+</persName>
+       氏ト会話ス、
+       <time when="13:00:00">
+        午後一時
+       </time>
+       モール氏宅ニ於テ午餐シ、一昨日来談話セシ硝酸曹達輸入ノ事ヲ議ス公使ハ此際会社ノ設立ヲ企望セラルヽモ、適当ノ時期ナラサルヲ以テ之ヲ謝絶シ、其売捌ヲ尽力シテ販路ノ拡張ヲ勉メ、而ル後会社設立ノ事ヲ約ス、
+       <time when="16:27:00">
+        午後四時二十七分
+       </time>
+<placeName corresp="#place_横浜">
+        横浜
+       </placeName>
+       ヲ発シ、
+       <time when="18:00:00">
+        六時
+       </time>
+       頃
+       <placeName corresp="#place_大磯町">
+        大磯
+       </placeName>
+       長生館ニ帰宿ス此夕
+       <persName corresp="#pers_吉岡新五郎">
+<surname>
+         吉岡
+        </surname>
+<forename>
+         新五郎
+        </forename>
+</persName>
+       、石碑ノ文字揮毫ノ事ニ付テ来宿ス
+      </p>
+</div>
+<div type="diary-entry" xml:id="DKB10009m-0003">
+<head>
+<date when="1900-01-03">
+        一月三日
+       </date>
+</head>
+<p>
+       曇午後快晴、朝来旧年ノ日記ヲ調査ス、午餐後
+       <persName corresp="#pers_吉岡">
+<surname>
+         吉岡
+        </surname>
+</persName>
+       ヨリ依頼セラレタル石碑三面及其背面ノ文字ヲ揮毫ス、畢テ他ノ〓本白紙等十数葉ノ揮毫ヲ為ス、夜、
+       <orgName>
+        第一銀行
+       </orgName>
+<persName corresp="#pers_佐々木勇之助">
+<surname>
+         佐々木
+        </surname>
+<forename>
+         勇之助
+        </forename>
+</persName>
+       、
+       <orgName>
+        台湾銀行
+       </orgName>
+<persName corresp="#pers_土岐〓">
+<surname>
+         土岐
+        </surname>
+<forename>
+         〓
+        </forename>
+</persName>
+       ノ書状ヲ落手
+       <pb corresp="#pageB1119" facs="https://eiichi.shibusawa.or.jp/denkishiryo-bekkan/api/images/iiif/145/full/max/0/default.jpg" n="B1119" source="#pageB1119"></pb>
+</p>
+</div>
+</body>
+</text>
+</group>
+</text>
