@@ -1,9 +1,13 @@
 <template>
-  <v-app>
-    <LayoutHeader></LayoutHeader>
+  <LayoutsApp>
+    <LayoutsHeader> </LayoutsHeader>
+
     <v-main>
       <slot />
     </v-main>
-    <LayoutFooter></LayoutFooter>
-  </v-app>
+
+    <LayoutsFooter></LayoutsFooter>
+
+    <MoleculesMenuToTopBtn></MoleculesMenuToTopBtn>
+  </LayoutsApp>
 </template>
