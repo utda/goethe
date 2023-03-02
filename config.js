@@ -1,7 +1,7 @@
 export default {
   title: "ゲーテ書簡特設サイト",
   color: {
-    main: 'primary'
+    main: "primary",
   },
   baseURL: "/goethe",
   description: "ゲーテ書簡の特設サイトです。",

@@ -1,7 +1,7 @@
 
 <template>
   <div>
-    <MoleculesMenuTopImage></MoleculesMenuTopImage>
+    <MoleculesMenuTopImage :to="{name: 'viewer'}"></MoleculesMenuTopImage>
     <v-container class="py-10">
         あああ
     </v-container>

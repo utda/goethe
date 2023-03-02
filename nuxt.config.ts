@@ -1,26 +1,26 @@
 import config2 from "./config.js";
-import itaiji from './assets/json/dict.json'
+import itaiji from "./assets/json/dict.json";
 
 const config: any = {};
 
-const config3: any = config2
-for(const configKey in config3) {
-  config[configKey] = config3[configKey]
+const config3: any = config2;
+for (const configKey in config3) {
+  config[configKey] = config3[configKey];
 }
 
-const rows = []
+const rows = [];
 
-for(const row of itaiji) {
-  const spl = row.split(" => ")
-  const from = spl[0].split(",").join("|")
-  const to = spl[1]
-  rows.push([from, to])
+for (const row of itaiji) {
+  const spl = row.split(" => ");
+  const from = spl[0].split(",").join("|");
+  const to = spl[1];
+  rows.push([from, to]);
 }
 
 // import itaiji from "./assets/json/dict.json";
-config.itaiji = rows
+config.itaiji = rows;
 
-const baseURL: string = config.baseURL // "/goethe"
+const baseURL: string = config.baseURL; // "/goethe"
 
 export default defineNuxtConfig({
   modules: ["@nuxtjs/i18n", "@nuxt/content"],
@@ -59,5 +59,5 @@ export default defineNuxtConfig({
   components: {
     global: true,
     dirs: ["~/components"],
-  }
+  },
 });
