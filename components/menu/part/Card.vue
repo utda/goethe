@@ -13,7 +13,7 @@ withDefaults(defineProps<PropType>(), {
 </script>
 <template>
   <v-card flat>
-    <v-toolbar :title="$t(title)" density="compact"></v-toolbar>
+    <v-toolbar :title="title" density="compact"></v-toolbar>
     <v-card-text
       :style="`height: ${mainHeight - headerHeight}px`"
       style="overflow-y: auto"

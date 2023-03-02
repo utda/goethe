@@ -1,11 +1,9 @@
-<script setup lang="ts">
-const { sys_theme }: any = useViewerUtils();
-</script>
 <template>
-  <v-app :theme="sys_theme">
-    <LayoutHeader></LayoutHeader>
+  <LayoutsApp>
+    <LayoutsHeader> </LayoutsHeader>
+
     <v-main>
       <slot />
     </v-main>
-  </v-app>
+  </LayoutsApp>
 </template>

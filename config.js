@@ -3,6 +3,10 @@ export default {
   color: {
     main: "primary",
   },
+  hostname: {
+    "production": "https://nakamura196.github.io/",
+    "development": "http://localhost:52441/"
+  },
   baseURL: "/goethe",
   description: "ゲーテ書簡の特設サイトです。",
   top_image_url: "/home.jpg",

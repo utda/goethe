@@ -3,9 +3,31 @@ import itaiji from "./assets/json/dict.json";
 
 const config: any = {};
 
+
+
 const config3: any = config2;
 for (const configKey in config3) {
   config[configKey] = config3[configKey];
+}
+
+const getConfigByEnv: any = () => {
+  const environment = process.env.APP_MODE;
+
+  switch (environment) {
+    case "production":
+      return {
+        "hostname": config.hostname.production,
+      };
+    default:
+      return {
+        "hostname": config.hostname.development,
+      };
+  }
+};
+
+const configByEnv = getConfigByEnv();
+for(const configKey in configByEnv) {
+  config[configKey] = configByEnv[configKey];
 }
 
 const rows = [];

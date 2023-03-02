@@ -18,7 +18,7 @@ if(props.closed) {
 <template>
   <v-expansion-panels v-model="text_panel" multiple>
     <v-expansion-panel elevation="0">
-      <v-expansion-panel-title>{{ $t(title) }}</v-expansion-panel-title>
+      <v-expansion-panel-title>{{ title }}</v-expansion-panel-title>
       <v-expansion-panel-text>
         <div class="pa-4">
           <slot />

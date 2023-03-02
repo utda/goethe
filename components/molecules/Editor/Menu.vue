@@ -17,7 +17,7 @@ mdiImage,
 
 // const tab = menu_tab // config.menu_tab//.value
 
-const tab = "info"
+const tab = ref("info")
 
 interface PropType {
     xml: any
@@ -36,6 +36,11 @@ withDefaults(defineProps<PropType>(), {
           <v-tab value="info">
             <v-icon>
               {{ mdiInformation }}
+            </v-icon>
+          </v-tab>
+          <v-tab value="edit">
+            <v-icon>
+              {{ mdiFileEdit }}
             </v-icon>
           </v-tab>
           <!--
@@ -86,6 +91,9 @@ withDefaults(defineProps<PropType>(), {
           
           <v-window-item value="info">
             <MoleculesEditorMenuInformation :xml="xml"></MoleculesEditorMenuInformation>
+          </v-window-item>
+          <v-window-item value="edit">
+            <MoleculesEditorMenuEncodingDesc :xml="xml"></MoleculesEditorMenuEncodingDesc>
           </v-window-item>
           <!--
           <v-window-item value="rights">
