@@ -126,7 +126,8 @@ const mod = (text: string) => {
 <template>
   <template v-if="nodeName === 'comment'"> </template>
   <template v-else-if="nodeName === 'text'">
-    <span v-remove-whitespace v-if="node.nodeValue && node.nodeValue.trim()">
+    <!-- v-remove-whitespace -->
+    <span v-if="node.nodeValue && node.nodeValue.trim()">
       {{ mod(node.nodeValue) }}
     </span>
   </template>

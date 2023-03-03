@@ -11,8 +11,7 @@ const props = withDefaults(defineProps<PropType>(), {
   options: () => {},
 });
 
-const lem = props.node.querySelector("tei-lem");
-
+const lems = props.node.querySelectorAll("tei-lem");
 const rdgs = props.node.querySelectorAll("tei-rdg");
 </script>
 
@@ -21,13 +20,13 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
     <template v-slot:activator="{ props }">
       <span v-bind="props" class="clickable bg-error">
         <!-- style="color: danger" -->
-        <template v-if="!lem || lem.childNodes.length === 0">
+        <template v-if="lems.length === 0">
           <v-icon size="sm" style="vertical-align: baseline !important">{{
             mdiAnchor
           }}</v-icon>
         </template>
         <template v-else>
-          <TeiNodes :teiNodes="lem.childNodes" />
+          <TeiNodes :teiNodes="lems[0].childNodes" />
         </template>
       </span>
     </template>
@@ -43,7 +42,7 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
             </tr>
           </thead>
           <tbody>
-            <tr v-if="lem">
+            <tr v-for="lem in lems">
               <td>lem</td>
               <td>{{ lem.getAttribute("wit") }}</td>
               <td>{{ lem.getAttribute("type") }}</td>

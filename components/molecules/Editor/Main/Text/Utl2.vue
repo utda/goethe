@@ -14,22 +14,40 @@ const tei = props.xml;
 tei.querySelector("tei-teiHeader")?.remove();
 tei.querySelector("tei-back")?.remove();
 
+const replace = (node: any, from: string, to: string) => {
+  const newNode = document.createElement(to);
+
+  const attributes = node.attributes;
+    for(let i = 0; i < attributes.length; i++){
+      newNode.setAttribute(attributes[i].name, attributes[i].value)
+    }
+
+  const children = node.childNodes;
+
+  Array.from(children).forEach(function (el: any) {
+    newNode.appendChild(el);
+  });
+
+  node.replaceWith(newNode);
+}
+
 const elements = ["tei-date", "tei-persName", "tei-placeName"];
 
 for (const element of elements) {
   const targets = tei.querySelectorAll(element);
   for (const date of targets) {
-    const span = document.createElement("span");
-
-    const children = date.childNodes;
-
-    Array.from(children).forEach(function (el: any) {
-      span.appendChild(el);
-    });
-
-    date.replaceWith(span);
+    replace(date, element, "tei-seg")
   }
 }
+
+const targets = tei.querySelectorAll("tei-rdg");
+for(const target of targets){
+  if(target.getAttribute("wit") === "#UTL"){
+    replace(target, "tei-rdg", "tei-lem")
+  }
+}
+
+console.log(tei)
 </script>
 <template>
   <div class="pa-4">
