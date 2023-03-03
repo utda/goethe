@@ -35,22 +35,22 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
         <v-table>
           <thead>
             <tr>
-              <th>element</th>
-              <th>wit</th>
-              <th>type</th>
-              <th>value</th>
+              <th>{{ $t("element") }}</th>
+              <th>{{ $t("wit") }}</th>
+              <th>{{ $t("type") }}</th>
+              <th>{{ $t("value") }}</th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="lem in lems">
-              <td>lem</td>
-              <td>{{ lem.getAttribute("wit") }}</td>
+              <td>{{ $t("lem") }}</td>
+              <td>{{ lem.getAttribute("wit")?.replace("#", "") }}</td>
               <td>{{ lem.getAttribute("type") }}</td>
               <td><TeiNodes :tei-nodes="lem.childNodes" /></td>
             </tr>
             <tr v-for="rdg in rdgs">
-              <td>rdg</td>
-              <td>{{ rdg.getAttribute("wit") }}</td>
+              <td>{{ $t("rdg") }}</td>
+              <td>{{ rdg.getAttribute("wit")?.replace("#", "") }}</td>
               <td>{{ rdg.getAttribute("type") }}</td>
               <td><TeiNodes :tei-nodes="rdg.childNodes" /></td>
             </tr>

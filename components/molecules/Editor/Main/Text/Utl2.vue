@@ -9,7 +9,9 @@ const props = withDefaults(defineProps<PropType>(), {
   xml: () => null,
 });
 
-const tei = props.xml;
+// const html = props.xml.outerHTML;
+// const tei = document.createElement(html);
+const tei = props.xml.cloneNode(true);
 
 tei.querySelector("tei-teiHeader")?.remove();
 tei.querySelector("tei-back")?.remove();
@@ -46,8 +48,6 @@ for(const target of targets){
     replace(target, "tei-rdg", "tei-lem")
   }
 }
-
-console.log(tei)
 </script>
 <template>
   <div class="pa-4">

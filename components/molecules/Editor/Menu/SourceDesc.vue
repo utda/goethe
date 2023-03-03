@@ -22,7 +22,7 @@ const witnesses = sourceDesc.querySelectorAll("tei-witness");
         <h2 class="mb-4">{{ witness.getAttribute("xml:id") }}</h2>
         <p class="mb-4" v-for="title in witness.querySelectorAll('tei-title')">
           <v-chip label class="ma-1">{{
-            title.getAttribute("xml:lang")
+            $t(title.getAttribute("xml:lang"))
           }}</v-chip>
           {{ title.textContent }}
         </p>

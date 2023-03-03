@@ -43,19 +43,21 @@ const options: any[] = [];
       <MoleculesEditorMenu :xml="xml"></MoleculesEditorMenu>
     </pane>
 
+    <!--
     <pane :size="20">
       <MoleculesEditorMainPane :height="height" label="text" :options="options">
         <MoleculesEditorMainTextUtl :xml="xml"></MoleculesEditorMainTextUtl>
       </MoleculesEditorMainPane>
     </pane>
+    -->
 
-    <pane :size="30">
+    <pane :size="40">
       <MoleculesEditorMainPane :height="height" label="text" :options="options">
         <MoleculesEditorMainTextUtl2 :xml="xml"></MoleculesEditorMainTextUtl2>
       </MoleculesEditorMainPane>
     </pane>
 
-    <pane :size="20">
+    <pane :size="30">
       <!-- <Menu></Menu> -->
       <MoleculesEditorMainPane
         :height="height"

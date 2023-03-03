@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { mdiOpenInNew } from "@mdi/js";
-
 interface PropType {
   xml: any;
 }

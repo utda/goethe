@@ -15,7 +15,7 @@ const teiHeader = tei.querySelector("tei-teiHeader");
 const publicationStmt = teiHeader.querySelector("tei-publicationStmt");
 </script>
 <template>
-  <MenuPartCard :title="$t('publicaitonStmt')">
+  <MenuPartCard :title="$t('publicationStmt')">
     {{ publicationStmt.textContent }}
   </MenuPartCard>
 </template>

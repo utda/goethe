@@ -22,13 +22,13 @@ const authors = teiHeader.querySelectorAll("tei-author");
     <MenuPartExpansionPanel class="mb-5" :title="$t('titleStmt')">
       <h2 class="mb-4">{{ $t("title") }}</h2>
       <p class="mb-4" v-for="title in titles">
-        <v-chip label class="ma-1">{{ title.getAttribute("xml:lang") }}</v-chip>
+        <v-chip label class="ma-1">{{ $t(title.getAttribute("xml:lang")) }}</v-chip>
         {{ title.textContent }}
       </p>
 
       <h2 class="mb-4">{{ $t("author") }}</h2>
       <p class="mb-4" v-for="author in authors">
-        <v-chip label class="ma-1">{{ author.getAttribute("xml:lang") }}</v-chip>
+        <v-chip label class="ma-1">{{ $t(author.getAttribute("xml:lang")) }}</v-chip>
         {{ author.textContent }}
 
         <template v-if="author.getAttribute('corresp')">
