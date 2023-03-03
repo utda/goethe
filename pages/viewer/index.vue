@@ -31,7 +31,7 @@ onMounted(async () => {
   xml.value = await CETEIcean.makeHTML5(xmlString.value);
 });
 
-const options: any[] = []
+const options: any[] = [];
 </script>
 <template>
   <splitpanes
@@ -51,7 +51,16 @@ const options: any[] = []
 
     <pane :size="30">
       <!-- <Menu></Menu> -->
-      c
+      <MoleculesEditorMainPane
+        :height="height"
+        label="image"
+        :options="options"
+      >
+        <MoleculesEditorMainImage
+          :height="height - 32"
+          :xml="xml"
+        ></MoleculesEditorMainImage>
+      </MoleculesEditorMainPane>
     </pane>
   </splitpanes>
 </template>

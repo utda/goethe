@@ -8,15 +8,16 @@ import {
 } from "@mdi/js";
 
 interface PropType {
-  height: string;
-  id?: string;
+  height: number;
+  // id?: string;
 }
 
 withDefaults(defineProps<PropType>(), {
-  height: "",
-  id: "",
+  height: 0,
+  // id: "",
 });
 
+/*
 const {
   private_image_annotations_map,
   image_canvas_id,
@@ -50,6 +51,14 @@ const updatePage = (value: any) => {
 const updatedSeletecd = (value: any) => {
   image_selected.value = value.selected_id;
 };
+*/
+
+const id = "aaa";
+
+const page = ref<number>(1);
+const regions = ref<string[]>([]);
+
+const manifest = "https://iiif.harvardartmuseums.org/manifests/object/299843";
 </script>
 <template>
   <ClientOnly>
@@ -95,20 +104,21 @@ const updatedSeletecd = (value: any) => {
       <span style="vertical-align: middle"> | </span>
 
       <v-btn
-          :href="`${manifest}?manifest=${manifest}`"
-          target="_blank"
-          icon
-          size="x-small"
-          variant="text"
-        >
-          <v-img
-            width="20"
-            contain
-            src="https://cultural.jp/img/icons/iiif-logo.svg"
-          ></v-img>
-        </v-btn>
+        :href="`${manifest}?manifest=${manifest}`"
+        target="_blank"
+        icon
+        size="x-small"
+        variant="text"
+      >
+        <v-img
+          width="20"
+          contain
+          src="https://cultural.jp/img/icons/iiif-logo.svg"
+        ></v-img>
+      </v-btn>
     </div>
 
+    <!--
     <OsdCustomViewer
       ref="ocv"
       :id="id"
@@ -122,6 +132,15 @@ const updatedSeletecd = (value: any) => {
       :selected_id="image_selected"
       :hover_id="hover_id"
       :mode="sys_theme"
+      :use_custom_buttons="true"
+    />
+    -->
+    <OsdCustomViewer
+      ref="ocv"
+      :id="id"
+      :height="Number(height) - 32"
+      :manifest="manifest"
+      :regions="regions"
       :use_custom_buttons="true"
     />
     <!-- :page="page" -->
