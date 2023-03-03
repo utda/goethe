@@ -11,9 +11,7 @@ const props = withDefaults(defineProps<PropType>(), {
 
 const tei = props.xml;
 
-const teiHeader = tei.querySelector("tei-teiHeader");
 
-const corresActions = teiHeader.querySelectorAll("tei-correspAction");
 </script>
 <template>
     <div>

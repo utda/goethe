@@ -4,7 +4,7 @@ interface PropType {
   options?: any
 }
 
-const props = withDefaults(defineProps<PropType>(), {
+withDefaults(defineProps<PropType>(), {
   teiNodes: () => [],
   options: () => {}
 });

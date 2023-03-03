@@ -50,6 +50,7 @@ const routes: any = {
   "tei-name": "TeiName",
   "tei-sic": "TeiSic",
   "tei-bibl": "TeiBibl",
+  "tei-lb": "TeiLb",
 };
 
 const attributes = props.node.attributes;
@@ -120,52 +121,9 @@ const mod = (text: string) => {
 
   return text;
 };
-
-/*
-<template v-if="false">
-    <template v-if="nodeName === 'comment'"> </template>
-    <template v-else-if="nodeName === 'text'">
-      <span v-remove-whitespace v-if="node.nodeValue && node.nodeValue.trim()">
-        {{ mod(node.nodeValue) }}
-      </span>
-    </template>
-
-    <template v-else>
-
-      <TeiIIIF v-if="false && canvas_id" :canvas="canvas_id"></TeiIIIF>
-
-      <TeiPartAnnotation :memberId="member_id">
-        
-        <template :class="className" :style="style" v-if="routes[nodeName]">
-          <component :node="node" :is="routes[nodeName]" :options="options"/>
-        </template>
-        <template v-else>
-          <component :is="nodeName" :class="className" :style="style">
-            <TeiNodes :teiNodes="node.childNodes" :options="options"/> 
-          </component>
-        </template>
-      </TeiPartAnnotation>
-    </template>
-  </template>
-  */
 </script>
 
 <template>
-  <!--
-  <template v-if="nodeName === 'comment'"> </template>
-  <template v-else-if="nodeName === 'text'">
-    <span v-remove-whitespace v-if="node.nodeValue && node.nodeValue.trim()">
-      {{ mod(node.nodeValue) }}
-    </span>
-  </template>
-  <template v-else>
-    {{ nodeName }}
-    <component :is="nodeName">
-      <TeiNodes :teiNodes="node.childNodes" :options="options"/> 
-    </component>
-  </template>
--->
-
   <template v-if="nodeName === 'comment'"> </template>
   <template v-else-if="nodeName === 'text'">
     <span v-remove-whitespace v-if="node.nodeValue && node.nodeValue.trim()">
@@ -188,21 +146,3 @@ const mod = (text: string) => {
     </TeiPartAnnotation>
   </template>
 </template>
-<style>
-/*
-.taito22 {
-  margin-top: 2rem;
-  text-indent: -2rem;
-}
-
-.taito12 {
-  margin-top: 2rem;
-  text-indent: -1rem;
-}
-*/
-
-.taito11 {
-  margin-top: 1rem;
-  text-indent: -1rem;
-}
-</style>
