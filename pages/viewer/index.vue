@@ -39,17 +39,23 @@ const options: any[] = [];
     :style="'height: ' + height + 'px'"
     v-if="xml"
   >
-    <pane :size="40">
+    <pane :size="30">
       <MoleculesEditorMenu :xml="xml"></MoleculesEditorMenu>
     </pane>
 
-    <pane :size="30">
+    <pane :size="20">
       <MoleculesEditorMainPane :height="height" label="text" :options="options">
         <MoleculesEditorMainTextUtl :xml="xml"></MoleculesEditorMainTextUtl>
       </MoleculesEditorMainPane>
     </pane>
 
     <pane :size="30">
+      <MoleculesEditorMainPane :height="height" label="text" :options="options">
+        <MoleculesEditorMainTextUtl2 :xml="xml"></MoleculesEditorMainTextUtl2>
+      </MoleculesEditorMainPane>
+    </pane>
+
+    <pane :size="20">
       <!-- <Menu></Menu> -->
       <MoleculesEditorMainPane
         :height="height"
