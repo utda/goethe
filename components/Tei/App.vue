@@ -3,17 +3,17 @@ import { mdiAnchor } from "@mdi/js";
 
 interface PropType {
   node?: any;
-  options?: any
+  options?: any;
 }
 
 const props = withDefaults(defineProps<PropType>(), {
   node: () => null,
-  options: () => {}
+  options: () => {},
 });
 
 const lem = props.node.querySelector("tei-lem");
 
-const rdg = props.node.querySelector("tei-rdg");
+const rdgs = props.node.querySelectorAll("tei-rdg");
 </script>
 
 <template>
@@ -21,7 +21,7 @@ const rdg = props.node.querySelector("tei-rdg");
     <template v-slot:activator="{ props }">
       <span v-bind="props" class="clickable bg-error">
         <!-- style="color: danger" -->
-        <template v-if="lem.childNodes.length === 0">
+        <template v-if="!lem || lem.childNodes.length === 0">
           <v-icon size="sm" style="vertical-align: baseline !important">{{
             mdiAnchor
           }}</v-icon>
@@ -43,13 +43,13 @@ const rdg = props.node.querySelector("tei-rdg");
             </tr>
           </thead>
           <tbody>
-            <tr>
+            <tr v-if="lem">
               <td>lem</td>
               <td>{{ lem.getAttribute("wit") }}</td>
               <td>{{ lem.getAttribute("type") }}</td>
               <td><TeiNodes :tei-nodes="lem.childNodes" /></td>
             </tr>
-            <tr>
+            <tr v-for="rdg in rdgs">
               <td>rdg</td>
               <td>{{ rdg.getAttribute("wit") }}</td>
               <td>{{ rdg.getAttribute("type") }}</td>
