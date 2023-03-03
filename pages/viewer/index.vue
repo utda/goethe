@@ -40,7 +40,7 @@ const options: any[] = [];
     v-if="xml"
   >
     <pane :size="30">
-      <MoleculesEditorMenu :xml="xml"></MoleculesEditorMenu>
+      <MoleculesEditorMenu :height="height" :xml="xml"></MoleculesEditorMenu>
     </pane>
 
     <!--
