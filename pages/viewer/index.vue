@@ -21,7 +21,7 @@ const xml = ref(null);
 
 var CETEIcean = new CETEI();
 
-const url = `${hostname}/${baseURL.substring(1)}/data/xml/goethe.xml`;
+let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe.xml`;
 
 const { data: xmlString } = await useFetch(url);
 
@@ -42,8 +42,9 @@ onMounted(async () => {
     </pane>
 
     <pane :size="30">
-      <!-- <Menu></Menu> -->
-      b
+      <MoleculesEditorMainPane>
+        <MoleculesEditorMainTextUtl :xml="xml"></MoleculesEditorMainTextUtl>
+      </MoleculesEditorMainPane>
     </pane>
 
     <pane :size="30">

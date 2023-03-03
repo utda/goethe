@@ -9,6 +9,9 @@ import {
   mdiMagnify,
   // mdiMessageReplyText,
 mdiImage,
+mdiEarth,
+mdiFile,
+mdiText,
 } from "@mdi/js";
 // const config = useViewerUtils()
 // const tab = ref(/*config.params.value.menu.tab*/);
@@ -41,6 +44,21 @@ withDefaults(defineProps<PropType>(), {
           <v-tab value="edit">
             <v-icon>
               {{ mdiFileEdit }}
+            </v-icon>
+          </v-tab>
+          <v-tab value="publication">
+            <v-icon>
+              {{ mdiEarth }}
+            </v-icon>
+          </v-tab>
+          <v-tab value="source">
+            <v-icon>
+              {{ mdiFile }}
+            </v-icon>
+          </v-tab>
+          <v-tab value="profile">
+            <v-icon>
+              {{ mdiText }}
             </v-icon>
           </v-tab>
           <!--
@@ -94,6 +112,15 @@ withDefaults(defineProps<PropType>(), {
           </v-window-item>
           <v-window-item value="edit">
             <MoleculesEditorMenuEncodingDesc :xml="xml"></MoleculesEditorMenuEncodingDesc>
+          </v-window-item>
+          <v-window-item value="publication">
+            <MoleculesEditorMenuPublication :xml="xml"></MoleculesEditorMenuPublication>
+          </v-window-item>
+          <v-window-item value="source">
+            <MoleculesEditorMenuSourceDesc :xml="xml"></MoleculesEditorMenuSourceDesc>
+          </v-window-item>
+          <v-window-item value="profile">
+            <MoleculesEditorMenuProfile :xml="xml"></MoleculesEditorMenuProfile>
           </v-window-item>
           <!--
           <v-window-item value="rights">

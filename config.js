@@ -38,61 +38,8 @@ export default {
       weight: 0,
     },
     {
-      title: "search",
-      to: {
-        name: "resource",
-        params: {
-          resource: "item",
-        },
-      },
-      top: true,
-      type: "tools",
-      weight: 0,
-    },
-    {
-      title: "利用条件",
-      to: {
-        name: "page-slug",
-        params: {
-          slug: "use",
-        },
-      },
-    },
-    {
-      title: "resource",
-      to: {
-        name: "page-slug",
-        params: {
-          slug: "resource",
-        },
-      },
-    },
-    {
-      title: "support",
-      to: {
-        name: "page-slug",
-        params: {
-          slug: "support",
-        },
-      },
-    },
-    {
-      title: "fruits",
-      to: {
-        name: "page-slug",
-        params: {
-          slug: "fruits",
-        },
-      },
-    },
-    {
-      title: "デジタルギャラリー",
-      href: "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/",
-      target: "_blank",
-    },
-    {
-      title: "東京大学史料編纂所",
-      href: "https://www.hi.u-tokyo.ac.jp/",
+      title: "東京大学",
+      href: "https://www.u-tokyo.ac.jp/",
       target: "_blank",
     },
   ],
