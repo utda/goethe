@@ -1,6 +1,20 @@
 <script setup lang="ts">
 import { mdiChevronDown, mdiDotsHorizontal } from "@mdi/js";
 
+interface PropType {
+  label: string;
+  // row_index: number;
+  options: any[];
+  height: number;
+}
+
+const props = withDefaults(defineProps<PropType>(), {
+  label: "",
+  // row_index: 0,
+  options: () => [],
+  height: 0,
+});
+
 /*
 interface PropType {
   // col_index: number;
@@ -43,7 +57,7 @@ const update = (index: number) => {
 let barHeight = 32;
 
 const pane_height = computed(() => {
-  return 600 - barHeight; // mainHeight.value * region.y / 100 - barHeight;
+  return props.height - barHeight; // mainHeight.value * region.y / 100 - barHeight;
 });
 
 /*
@@ -91,18 +105,17 @@ watch(sub_option_value, () => {
   pane_layout.value[props.col_index][props.row_index].options[sub_option_key.value] = sub_option_value.value
 })
 */
-
-const label = "aaa";
 </script>
 <template>
   <div id="panel" style="height: 100%">
     <v-layout :style="`height: ${barHeight}px`">
       <v-system-bar window>
-        <span>{{ label }}</span>
+        <span>{{ $t(label) }}</span>
 
         <v-spacer></v-spacer>
 
-        <!--
+        <template v-if="options.length > 0">
+          <!--
         <v-menu offset-y v-if="sub_options.length > 0">
           <template v-slot:activator="{ props }">
             <v-btn class="mr-2" v-bind="props" size="x-small" flat>
@@ -123,28 +136,30 @@ const label = "aaa";
         </v-menu>
         -->
 
-        <v-menu offset-y>
-          <template v-slot:activator="{ props }">
-            <v-btn v-bind="props" size="x-small" flat>
-              <v-icon>{{ mdiChevronDown }}</v-icon>
-            </v-btn>
-          </template>
-          <v-card>
-            <v-list density="compact">
-              <!-- @click="update(key)" -->
-              <v-list-item
-                :value="value"
-                v-for="(value, key) in [
-                  {
-                    label: 'nnn',
-                  },
-                ]"
-                :key="key"
-              >
-                <v-list-item-title v-text="$t(value.label)"></v-list-item-title>
-              </v-list-item>
-            </v-list>
-            <!--
+          <v-menu offset-y>
+            <template v-slot:activator="{ props }">
+              <v-btn v-bind="props" size="x-small" flat>
+                <v-icon>{{ mdiChevronDown }}</v-icon>
+              </v-btn>
+            </template>
+            <v-card>
+              <v-list density="compact">
+                <!-- @click="update(key)" -->
+                <v-list-item
+                  :value="value"
+                  v-for="(value, key) in [
+                    {
+                      label: 'nnn',
+                    },
+                  ]"
+                  :key="key"
+                >
+                  <v-list-item-title
+                    v-text="$t(value.label)"
+                  ></v-list-item-title>
+                </v-list-item>
+              </v-list>
+              <!--
             <v-list density="compact">
               <v-list-item
                 @click="update(key)"
@@ -156,8 +171,9 @@ const label = "aaa";
               </v-list-item>
             </v-list>
             -->
-          </v-card>
-        </v-menu>
+            </v-card>
+          </v-menu>
+        </template>
       </v-system-bar>
     </v-layout>
 
