@@ -4,7 +4,7 @@ import { mdiChevronDown, mdiDotsHorizontal } from "@mdi/js";
 interface PropType {
   label: string;
   // row_index: number;
-  options: any[];
+  options?: any[];
   height: number;
 }
 

@@ -88,4 +88,5 @@ export default {
     "support": "Support Us",
     "fruits": "Fruits",
     "ご利用前に注意事項をお読み下さい": "Terms of Use",
+    "respStmt": "Responsibility Statement",
 }

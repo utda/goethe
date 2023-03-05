@@ -18,10 +18,12 @@
                <persName xml:lang="de">Johann August Friedrich John</persName>
                <persName xml:lang="ja">ヨーン</persName>
             </respStmt>
+            <!--
             <respStmt>
                <resp xml:lang="ja">翻訳</resp>
                <persName xml:lang="ja">石原あえか</persName>
             </respStmt>
+            -->
             <respStmt>
                <resp xml:lang="ja">TEIエンコーディング</resp>
                <persName xml:lang="ja">中村美里</persName>

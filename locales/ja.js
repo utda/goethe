@@ -121,4 +121,7 @@ export default {
     "image": "画像",
     "Next": "次",
     "Previous": "前",
+    "respStmt": "知的内容に関する責任",
+    "editor":  "編集者",
+    "publisher": "出版者",
 }

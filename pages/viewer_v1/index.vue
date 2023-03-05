@@ -39,33 +39,25 @@ const options: any[] = [];
     :style="'height: ' + height + 'px'"
     v-if="xml"
   >
-    <pane :size="25">
-      <MoleculesEditorMainPane :height="height" label="bibl">
-        <MoleculesEditorMenuList :xml="xml"></MoleculesEditorMenuList>
+    <pane :size="30">
+      <MoleculesEditorMenu :height="height" :xml="xml"></MoleculesEditorMenu>
+    </pane>
+
+    <!--
+    <pane :size="20">
+      <MoleculesEditorMainPane :height="height" label="text" :options="options">
+        <MoleculesEditorMainTextUtl :xml="xml"></MoleculesEditorMainTextUtl>
+      </MoleculesEditorMainPane>
+    </pane>
+    -->
+
+    <pane :size="40">
+      <MoleculesEditorMainPane :height="height" label="text" :options="options">
+        <MoleculesEditorMainTextUtl2 :xml="xml"></MoleculesEditorMainTextUtl2>
       </MoleculesEditorMainPane>
     </pane>
 
-    <pane :size="25">
-      <MoleculesEditorMainPane
-        :height="height"
-        label="ヴァイマル版ゲーテ全集（略称WA）"
-        :options="options"
-      >
-        <MoleculesEditorMainTextWa :xml="xml"></MoleculesEditorMainTextWa>
-      </MoleculesEditorMainPane>
-    </pane>
-
-    <pane :size="25">
-      <MoleculesEditorMainPane
-        :height="height"
-        label="東京大学総合図書館所蔵のゲーテ自署付書簡"
-        :options="options"
-      >
-        <MoleculesEditorMainTextUtl3 :xml="xml"></MoleculesEditorMainTextUtl3>
-      </MoleculesEditorMainPane>
-    </pane>
-
-    <pane :size="25">
+    <pane :size="30">
       <!-- <Menu></Menu> -->
       <MoleculesEditorMainPane
         :height="height"
