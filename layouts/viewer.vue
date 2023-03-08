@@ -1,6 +1,6 @@
 <template>
   <LayoutsApp>
-    <LayoutsHeader> </LayoutsHeader>
+    <CustomLayoutsHeader> </CustomLayoutsHeader>
 
     <v-main>
       <slot />
