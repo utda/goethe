@@ -44,13 +44,15 @@ for (const element of elements) {
   }
 }
 
-const targets = tei.querySelectorAll("tei-rdg");
+const targets = tei.querySelectorAll("tei-lem");
 for(const target of targets){
   if(target.getAttribute("wit") === "#UTL"){
-    const newNode = replace(target, "tei-rdg", "tei-lem")
+    const newNode = replace(target, "tei-lem", "tei-seg")
     newNode.setAttribute("style", "background-color: #FFEB3B; color: black;")
   }
+}
 
+for(const target of tei.querySelectorAll("tei-rdg")) {
   if(target.getAttribute("wit") === "#WA"){
     target.remove()
   }

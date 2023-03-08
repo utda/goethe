@@ -47,10 +47,12 @@ for (const element of elements) {
 const targets = tei.querySelectorAll("tei-rdg");
 for(const target of targets){
   if(target.getAttribute("wit") === "#WA"){
-    const newNode = replace(target, "tei-rdg", "tei-lem")
+    const newNode = replace(target, "tei-rdg", "tei-seg")
     newNode.setAttribute("style", "background-color: #FFEB3B; color: black;")
   }
+}
 
+for(const target of tei.querySelectorAll("tei-lem")) {
   if(target.getAttribute("wit") === "#UTL"){
     target.remove()
   }

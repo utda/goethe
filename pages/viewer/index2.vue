@@ -21,7 +21,7 @@ const xml = ref(null);
 
 var CETEIcean = new CETEI();
 
-let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0307.xml`;
+let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0304.xml`;
 
 const { data: xmlString } = await useFetch(url);
 
