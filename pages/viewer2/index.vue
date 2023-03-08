@@ -21,14 +21,22 @@ const xml = ref(null);
 
 var CETEIcean = new CETEI();
 
-let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0304.xml`;
 
-const { data: xmlString } = await useFetch(url);
 
 onMounted(async () => {
+  let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0304.xml`;
+
+  const { data: xmlString_ } = await useFetch(url);
+  if(xmlString_.value) {
+    xml.value = await CETEIcean.makeHTML5(xmlString_.value);
+  } else {
+    const { data: xmlString } = await useFetch(url);
+    xml.value = await CETEIcean.makeHTML5(xmlString.value);
+  }  
+
   height.value = window.innerHeight - barHeight;
 
-  xml.value = await CETEIcean.makeHTML5(xmlString.value);
+  // xml.value = await CETEIcean.makeHTML5(xmlString.value);
 });
 
 const options: any[] = [];

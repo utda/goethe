@@ -40,9 +40,11 @@ for (const row of itaiji) {
 }
 
 // import itaiji from "./assets/json/dict.json";
-config.itaiji = rows;
+// config.itaiji = rows;
 
 const baseURL: string = config.baseURL; // "/goethe"
+
+console.log("config", config)
 
 export default defineNuxtConfig({
   modules: ["@nuxtjs/i18n", "@nuxt/content"],
