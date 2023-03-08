@@ -58,7 +58,7 @@ const id = "aaa";
 const page = ref<number>(1);
 const regions = ref<string[]>([]);
 
-const manifest = "https://iiif.harvardartmuseums.org/manifests/object/299843";
+const manifest = "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/546bbac1-6736-271d-8fcc-2abb10b95766/manifest" //"https://iiif.harvardartmuseums.org/manifests/object/299843";
 </script>
 <template>
   <ClientOnly>
