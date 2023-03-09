@@ -4,7 +4,7 @@ export default {
     main: "primary",
   },
   hostname: {
-    "production": "https://nakamura196.github.io/",
+    "production": "https://utda.github.io/",
     "development": "http://localhost:52441/"
   },
   baseURL: "/goethe",
