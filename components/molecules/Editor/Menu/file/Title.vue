@@ -59,7 +59,7 @@ const hideTitles = ["respStmt"];
     </template>
     <v-table>
       <tbody>
-        <tr v-for="respStmt in respStmts">
+        <tr v-for="respStmt in respStmts" :style="respStmt.getAttribute('style')">
           <td>{{ respStmt.querySelector("tei-resp")?.textContent }}</td>
           <td>
             <p v-for="persName in respStmt.querySelectorAll('tei-persName')">

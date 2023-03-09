@@ -19,7 +19,6 @@ withDefaults(defineProps<PropType>(), {
     ></MoleculesEditorMenuFileSourceBibl>
 
     <MoleculesEditorMenuFileSourceMsDesc
-      v-if="false"
       :xml="xml"
     ></MoleculesEditorMenuFileSourceMsDesc>
   </div>

@@ -6,16 +6,27 @@ interface PropType {
 const props = withDefaults(defineProps<PropType>(), {
   xml: () => null,
 });
-
-const tei = props.xml;
-
-const teiHeader = tei.querySelector("tei-teiHeader");
-const sourceDesc = teiHeader.querySelector("tei-sourceDesc");
-
-const msDesc = sourceDesc.querySelector("tei-msDesc");
 </script>
 <template>
   <div>
+    <h2 class="mb-4" v-if="false">{{ $t("msDesc") }}</h2>
+
+    <MoleculesEditorMenuFileSourceMsDescIdentifier
+      :xml="xml"
+    ></MoleculesEditorMenuFileSourceMsDescIdentifier>
+
+    <v-divider class="mb-4" />
+    
+    <MoleculesEditorMenuFileSourceMsDescPhysDesc
+      :xml="xml"
+    ></MoleculesEditorMenuFileSourceMsDescPhysDesc>
+    
+    <v-divider class="mb-4" />
+    
+    <MoleculesEditorMenuFileSourceMsDescHistory
+      :xml="xml"
+    ></MoleculesEditorMenuFileSourceMsDescHistory>
+
     
   </div>
 </template>

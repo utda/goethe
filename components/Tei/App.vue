@@ -28,7 +28,7 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
         :class="`clickable bg-${options.color ? options.color.app : 'error'}`"
       >
         <!-- style="color: danger" -->
-        <template v-if="lems.length === 0">
+        <template v-if="lems.length === 0 || !lems[0].textContent">
           <v-icon size="sm" style="vertical-align: baseline !important">{{
             mdiAnchor
           }}</v-icon>

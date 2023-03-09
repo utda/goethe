@@ -124,4 +124,13 @@ export default {
     "respStmt": "知的内容に関する責任",
     "editor":  "編集者",
     "publisher": "出版者",
+    "msIdentifier": "手書き資料の識別子",
+    "institution": "機関",
+    "idno": "識別子",
+    "physDesc": "物理的特徴",
+    "objectDesc": "物体の解説",
+    "handDesc": "手書きの解説",
+    "history": "歴史",
+    "provenance": "来歴",
+    "origin": "出自"
 }

@@ -89,4 +89,13 @@ export default {
     "fruits": "Fruits",
     "ご利用前に注意事項をお読み下さい": "Terms of Use",
     "respStmt": "Responsibility Statement",
+    "msIdentifier": "Manuscript Identifier",
+    "institution": "Institution",
+    "idno": "ID Number",
+    "physDesc": "Physical Description",
+    "objectDesc": "Object Description",
+    "handDesc": "Description of Hands",
+    "history": "History",
+    "provenance": "Provenance",
+    "origin": "Origin",
 }

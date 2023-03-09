@@ -51,6 +51,8 @@ const routes: any = {
   "tei-sic": "TeiSic",
   "tei-bibl": "TeiBibl",
   "tei-lb": "TeiLb",
+  "tei-extent": "TeiExtent",
+  "tei-dimensions": "TeiDimensions",
 };
 
 const attributes = props.node.attributes;
