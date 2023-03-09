@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { tei_xml } = useTeiUtils();
-console.log(tei_xml);
 
 interface PropType {
   id?: string;
@@ -17,8 +16,6 @@ withDefaults(defineProps<PropType>(), {
 const results: any = ref([]);
 
 const dates = tei_xml.value.querySelectorAll("tei-" + "date");
-
-console.log({dates})
 
 for(const date of dates) {
     const date_text = date.textContent

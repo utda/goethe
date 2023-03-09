@@ -160,11 +160,8 @@ const removeParent = (index: string) => {
 }
 
 const del2 = (index: string) => {
-    console.log({index})
 
     const all = JSON.parse(JSON.stringify(test.value))
-
-    console.log(all)
 
     /*
     let k = all
@@ -220,8 +217,6 @@ const del3 = (index: string) => {
 
   /*
 
-  console.log(e.items)
-
   for(const e2 of e.items) {
     // e2.size = 100 / e.items.length
   }
@@ -234,7 +229,6 @@ const del3 = (index: string) => {
 };
 
 const resize = (event: any) => {
-    console.log("resize")
   for (let i = 0; i < event.length; i++) {
     // element2.value.items[i].size = event[i].size;
   }
@@ -259,7 +253,6 @@ const getWidth = (id: string) => {
 }
 
 const aaa = () => {
-    console.log("bbb")
 }
 </script>
 <template>

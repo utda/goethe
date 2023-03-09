@@ -1,5 +1,5 @@
 export default {
-  title: "ゲーテ書簡特設サイト",
+  title: "ゲーテ自署付書簡テキストデータ（TEI準拠）",
   color: {
     main: "primary",
   },

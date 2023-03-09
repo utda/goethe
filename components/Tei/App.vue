@@ -1,5 +1,10 @@
 <script setup lang="ts">
 import { mdiAnchor } from "@mdi/js";
+const { options } = useTeiUtils();
+
+options.value.color = {
+  app: "warning",
+};
 
 interface PropType {
   node?: any;
@@ -18,7 +23,10 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
 <template>
   <v-menu offset-y>
     <template v-slot:activator="{ props }">
-      <span v-bind="props" class="clickable bg-error">
+      <span
+        v-bind="props"
+        :class="`clickable bg-${options.color ? options.color.app : 'error'}`"
+      >
         <!-- style="color: danger" -->
         <template v-if="lems.length === 0">
           <v-icon size="sm" style="vertical-align: baseline !important">{{

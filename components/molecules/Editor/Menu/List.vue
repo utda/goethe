@@ -15,10 +15,6 @@ withDefaults(defineProps<PropType>(), {
       :xml="xml" color="primary" 
     ></MoleculesEditorMenuEncodingDesc>
 
-    <MoleculesEditorMenuPublication color="primary"  :xml="xml"></MoleculesEditorMenuPublication>
-
-    <MoleculesEditorMenuSourceDesc color="primary"  :xml="xml"></MoleculesEditorMenuSourceDesc>
-
     <MoleculesEditorMenuProfile color="primary" :xml="xml"></MoleculesEditorMenuProfile>
   </div>
 </template>

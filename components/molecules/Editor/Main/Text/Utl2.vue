@@ -42,12 +42,14 @@ for (const element of elements) {
   }
 }
 
+/*
 const targets = tei.querySelectorAll("tei-rdg");
 for(const target of targets){
   if(target.getAttribute("wit") === "#UTL"){
     replace(target, "tei-rdg", "tei-lem")
   }
 }
+*/
 </script>
 <template>
   <div class="pa-4">

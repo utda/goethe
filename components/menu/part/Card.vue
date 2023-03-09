@@ -2,7 +2,7 @@
 const { mainHeight } = useViewerUtils();
 
 interface PropType {
-  title: string;
+  title?: string;
   headerHeight?: number;
   color?: string
 }
@@ -15,7 +15,7 @@ withDefaults(defineProps<PropType>(), {
 </script>
 <template>
   <v-card flat rounded="0">
-    <v-toolbar :color="color" :title="title" density="compact"></v-toolbar>
+    <v-toolbar v-if="title" :color="color" :title="title" density="compact"></v-toolbar>
     <v-card-text
       :style="`height: ${mainHeight - headerHeight}px`"
       style="overflow-y: auto"

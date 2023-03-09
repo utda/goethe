@@ -44,8 +44,6 @@ for (const row of itaiji) {
 
 const baseURL: string = config.baseURL; // "/goethe"
 
-console.log("config", config)
-
 export default defineNuxtConfig({
   modules: ["@nuxtjs/i18n", "@nuxt/content"],
   app: {

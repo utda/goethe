@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const { tei_xml } = useTeiUtils();
-console.log(tei_xml);
 
 interface PropType {
   id?: string;
@@ -49,7 +48,6 @@ for (const config of configs) {
   results.value[list_tag] = [];
 
   const list = tei_xml.value.querySelectorAll("tei-" + config.list);
-  // console.log({list})
 
   if (list.length === 0) {
     continue;

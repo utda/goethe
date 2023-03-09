@@ -16,7 +16,7 @@ const teiHeader = tei.querySelector("tei-teiHeader");
 const corresActions = teiHeader.querySelectorAll("tei-correspAction");
 </script>
 <template>
-  <MenuPartCard :title="$t('profileDesc')">
+  <MenuPartCard> <!--  :title="$t('profileDesc')" -->
     <MenuPartExpansionPanel class="mb-5" :title="$t('correspDesc')">
       <v-table>
         <thead>
