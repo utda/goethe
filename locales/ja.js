@@ -125,12 +125,13 @@ export default {
     "editor":  "編集者",
     "publisher": "出版者",
     "msIdentifier": "手書き資料の識別子",
-    "institution": "機関",
-    "idno": "識別子",
+    "institution": "所蔵機関",
+    "idno": "請求記号",
     "physDesc": "物理的特徴",
-    "objectDesc": "物体の解説",
+    "objectDesc": "サイズ",
     "handDesc": "手書きの解説",
     "history": "歴史",
     "provenance": "来歴",
-    "origin": "出自"
+    "origin": "出自",
+    "notation": "表記"
 }

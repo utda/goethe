@@ -44,10 +44,66 @@ for (const row of itaiji) {
 
 const baseURL: string = config.baseURL; // "/goethe"
 
+const lang = "ja"
+const title = config.title;
+const description = config.description;
+
+const appUrl = config.hostname + baseURL.substring(1)
+
+const image = appUrl + config.top_image_url
+
+const favicon = appUrl + "/favicon.ico"
+
 export default defineNuxtConfig({
   modules: ["@nuxtjs/i18n", "@nuxt/content"],
   app: {
     baseURL, // /<reponame>
+    head: {
+      htmlAttrs: {
+        lang,
+      },
+      title,
+      meta: [
+        { charset: "utf-8" },
+        { "http-equiv": "x-ua-compatible", content: "ie=edge" },
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        {
+          name: "format-detection",
+          content: "telephone=no, email=no, address=no",
+        },
+        // SEO関連
+        { name: "description", content: description },
+        { name: "keywords", content: config.keywords },
+        // ogp関連
+        {
+          property: "og:site_name",
+          content: title,
+        },
+        { property: "og:type", content: "website" },
+        { property: "og:Url", content: appUrl },
+        { property: "og:title", content: title },
+        {
+          property: "og:description",
+          content: description,
+        },
+        {
+          property: "og:image",
+          content: image,
+        },
+        {
+          property: "og:locale",
+          content: "ja_JP",
+        },
+        { name: "twitter:card", content: "summary" },
+      ],
+      link: [
+        {
+          rel: "icon",
+          type: "image/x-icon",
+          href: favicon,
+        },
+      ],
+    },
   },
   i18n: {
     locales: [
@@ -56,9 +112,9 @@ export default defineNuxtConfig({
     ],
     langDir: "locales/",
     lazy: true,
-    defaultLocale: "ja",
+    defaultLocale: lang,
     vueI18n: {
-      fallbackLocale: "ja",
+      fallbackLocale: lang,
     },
   },
   // ssr: false,

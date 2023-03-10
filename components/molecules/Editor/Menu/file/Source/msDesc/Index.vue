@@ -20,6 +20,8 @@ const props = withDefaults(defineProps<PropType>(), {
     <MoleculesEditorMenuFileSourceMsDescPhysDesc
       :xml="xml"
     ></MoleculesEditorMenuFileSourceMsDescPhysDesc>
+
+    <!--
     
     <v-divider class="mb-4" />
     
@@ -27,6 +29,6 @@ const props = withDefaults(defineProps<PropType>(), {
       :xml="xml"
     ></MoleculesEditorMenuFileSourceMsDescHistory>
 
-    
+    -->
   </div>
 </template>

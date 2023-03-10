@@ -33,7 +33,6 @@ const isMobile = computed(() => {
 <template>
   <v-navigation-drawer v-model="drawer" temporary location="right">
     <v-list>
-      <!--
       <v-list-item
         v-for="(item, key) in menus_"
         :key="key"
@@ -45,7 +44,6 @@ const isMobile = computed(() => {
       >
         <v-list-item-title>{{ $t(item.title) }}</v-list-item-title>
       </v-list-item>
-      -->
       <v-list-item>
         <MoleculesMenuTheme v-model="theme"></MoleculesMenuTheme>
       </v-list-item>
@@ -66,7 +64,6 @@ const isMobile = computed(() => {
 
     <ClientOnly>
       <template v-if="!isMobile">
-        <!--
         <template v-for="menu in menus_">
           <v-btn
             class="mx-1"
@@ -82,8 +79,6 @@ const isMobile = computed(() => {
             </template>
           </v-btn>
         </template>
-        -->
-
         <MoleculesMenuTheme
           v-if="$config.public.menu_mode"
           v-model="theme"

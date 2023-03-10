@@ -15,11 +15,14 @@ const msDesc = teiHeader.querySelector("tei-msDesc");
 const institution = msDesc.querySelector("tei-institution");
 
 const idno = msDesc.querySelector("tei-idno");
+
+const config = useRuntimeConfig().public;
+const labels = config.labels;
 </script>
 <template>
   <div>
-    <h3 class="mb-4">{{ $t("msIdentifier") }}</h3>
-    
+    <h3 class="mb-4">{{ labels["msIdentifier"] || $t("msIdentifier") }}</h3>
+
     <!-- bibl-->
     <h4 class="mb-4">{{ $t("institution") }}</h4>
     <p class="mb-4">

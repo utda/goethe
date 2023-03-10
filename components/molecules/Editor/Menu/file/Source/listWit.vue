@@ -13,10 +13,13 @@ const teiHeader = tei.querySelector("tei-teiHeader");
 const sourceDesc = teiHeader.querySelector("tei-sourceDesc");
 
 const witnesses = sourceDesc.querySelectorAll("tei-witness");
+
+const config = useRuntimeConfig().public
+const labels = config.labels
 </script>
 <template>
   <div>
-    <h2 class="mb-4">{{ $t("listWit") }}</h2>
+    <h2 class="mb-4">{{ labels["listWit"] || $t("listWit") }}</h2>
     <template v-for="witness in witnesses">
       <h3 class="mb-4">{{ witness.getAttribute("xml:id") }}</h3>
       <p class="mb-4" v-for="title in witness.querySelectorAll('tei-title')">

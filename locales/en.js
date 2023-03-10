@@ -98,4 +98,5 @@ export default {
     "history": "History",
     "provenance": "Provenance",
     "origin": "Origin",
+    "notation": "表記"
 }

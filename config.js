@@ -1,5 +1,6 @@
 export default {
   title: "ゲーテ自署付書簡テキストデータ（TEI準拠）",
+  keywords: "ゲーテ,書簡,テキストデータ,TEI",
   color: {
     main: "primary",
   },
@@ -20,6 +21,7 @@ export default {
     '<p><a style="color: inherit;" href="https://www.hi.u-tokyo.ac.jp/">東京大学史料編纂所</a></p><br/><p><a style="color: inherit;" href="https://www.hi.u-tokyo.ac.jp/">Glossary PJ</a></p>',
   colSearch: 4,
   menus: [
+    /*
     {
       title: "top",
       to: { name: "index" },
@@ -42,5 +44,16 @@ export default {
       href: "https://www.u-tokyo.ac.jp/",
       target: "_blank",
     },
+    */
+    {
+      title: "ゲーテ自署付書簡（公開元サイト）",
+      href: "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/goethe/",
+      target: "_blank",
+      header: true,
+    },
   ],
+  labels: {
+    listWit: "文献記号について",
+    msIdentifier: "ゲーテ自署付書簡について",
+  }
 };

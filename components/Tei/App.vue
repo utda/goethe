@@ -18,6 +18,8 @@ const props = withDefaults(defineProps<PropType>(), {
 
 const lems = props.node.querySelectorAll("tei-lem");
 const rdgs = props.node.querySelectorAll("tei-rdg");
+
+const isType = false
 </script>
 
 <template>
@@ -43,23 +45,23 @@ const rdgs = props.node.querySelectorAll("tei-rdg");
         <v-table>
           <thead>
             <tr>
-              <th>{{ $t("element") }}</th>
+              <th v-if="isType">{{ $t("element") }}</th>
               <th>{{ $t("wit") }}</th>
-              <th>{{ $t("type") }}</th>
-              <th>{{ $t("value") }}</th>
+              <th v-if="isType">{{ $t("type") }}</th>
+              <th>{{ $t("notation") }}</th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="lem in lems">
-              <td>{{ $t("lem") }}</td>
+              <td v-if="isType">{{ $t("lem") }}</td>
               <td>{{ lem.getAttribute("wit")?.replace("#", "") }}</td>
-              <td>{{ lem.getAttribute("type") }}</td>
+              <td v-if="isType">{{ lem.getAttribute("type") }}</td>
               <td><TeiNodes :tei-nodes="lem.childNodes" /></td>
             </tr>
             <tr v-for="rdg in rdgs">
-              <td>{{ $t("rdg") }}</td>
+              <td v-if="isType">{{ $t("rdg") }}</td>
               <td>{{ rdg.getAttribute("wit")?.replace("#", "") }}</td>
-              <td>{{ rdg.getAttribute("type") }}</td>
+              <td v-if="isType">{{ rdg.getAttribute("type") }}</td>
               <td><TeiNodes :tei-nodes="rdg.childNodes" /></td>
             </tr>
           </tbody>
