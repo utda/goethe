@@ -20,9 +20,9 @@ const replace = (node: any, from: string, to: string) => {
   const newNode = document.createElement(to);
 
   const attributes = node.attributes;
-    for(let i = 0; i < attributes.length; i++){
-      newNode.setAttribute(attributes[i].name, attributes[i].value)
-    }
+  for (let i = 0; i < attributes.length; i++) {
+    newNode.setAttribute(attributes[i].name, attributes[i].value);
+  }
 
   const children = node.childNodes;
 
@@ -31,14 +31,17 @@ const replace = (node: any, from: string, to: string) => {
   });
 
   node.replaceWith(newNode);
-}
 
-const elements = ["tei-date", "tei-persName", "tei-placeName"];
+  return newNode;
+};
+
+let elements = ["tei-date", "tei-persName", "tei-placeName"];
 
 for (const element of elements) {
   const targets = tei.querySelectorAll(element);
-  for (const date of targets) {
-    replace(date, element, "tei-seg")
+  for (const target of targets) {
+    replace(target, element, "tei-seg");
+    // res.setAttribute("style", "background-color: red;")
   }
 }
 
@@ -50,6 +53,25 @@ for(const target of targets){
   }
 }
 */
+
+elements = ["*[hand='#viaf24602065']"];
+
+for (const element of elements) {
+  const targets = tei.querySelectorAll(element);
+
+  for (const target of targets) {
+    console.log({ target }, target.style, target.value, "tei-seg");
+    // const res = replace(target, target.localName, "tei-seg");
+    // res.setAttribute("style", "background-color: #2196F3; color: white;");
+    target.setAttribute("style", "color: #4CAF50"); // #2196F3;
+  }
+
+  /*
+  for (const date of targets) {
+    replace(date, element, "tei-seg")
+  }
+  */
+}
 </script>
 <template>
   <div class="pa-4">

@@ -22,7 +22,7 @@ const xml = ref(null);
 var CETEIcean = new CETEI();
 
 onMounted(async () => {
-  let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0310.xml`;
+  let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0311.xml`;
 
 
   const response = await fetch(url);
