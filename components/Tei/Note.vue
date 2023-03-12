@@ -22,7 +22,6 @@ const updateAnchor = () => {
 </script>
 
 <template>
-  
   <template
     v-if="node.getAttribute('type') && node.getAttribute('type') === '割書'"
   >
@@ -55,7 +54,8 @@ const updateAnchor = () => {
     </span>
   </template>
   <!-- その他 -->
-  <template v-else>
+  <template v-else-if="false">
+    <!-- old -->
     <v-menu offset-y v-if="text_anchor">
       <template v-slot:activator="{ props }">
         <span
@@ -83,14 +83,37 @@ const updateAnchor = () => {
       </v-card>
     </v-menu>
   </template>
-<!--
+  <template v-else>
+    <v-menu offset-y v-if="text_anchor">
+      <template v-slot:activator="{ props }">
+        <span
+          v-bind="props"
+          class="clickable"
+          :class="
+            node.getAttribute('corresp') &&
+            node.getAttribute('corresp').replace('#', '') === text_anchor_id
+              ? 'bg-yellow'
+              : ''
+          "
+          :style="node.getAttribute('style')"
+        >
+          <TeiNodes :tei-nodes="node.childNodes" />
+        </span>
+      </template>
+      <v-card>
+        <div class="pa-4">
+          {{ node.getAttribute("note") }}
+        </div>
+      </v-card>
+    </v-menu>
+  </template>
+  <!--
   <span>
   <template v-else>
     あああ
   </template>
 </span>
--->
-</template>
+--></template>
 <style>
 .warichu {
   display: inline-table;

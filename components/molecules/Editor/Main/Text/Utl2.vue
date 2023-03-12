@@ -60,10 +60,16 @@ for (const element of elements) {
   const targets = tei.querySelectorAll(element);
 
   for (const target of targets) {
-    console.log({ target }, target.style, target.value, "tei-seg");
-    // const res = replace(target, target.localName, "tei-seg");
-    // res.setAttribute("style", "background-color: #2196F3; color: white;");
-    target.setAttribute("style", "color: #4CAF50"); // #2196F3;
+    /*
+    const res = replace(target, target.localName, "tei-seg");
+    res.setAttribute("style", "background-color: #FFEB3B; color: black");
+    */
+    const note = document.createElement("tei-note");
+    note.setAttribute("style", "background-color: #FFEB3B; color: black");
+    note.textContent = target.textContent;
+    note.setAttribute("note", "ゲーテ自筆部分");
+    target.textContent = "";
+    target.appendChild(note);
   }
 
   /*
