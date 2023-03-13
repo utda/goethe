@@ -31,9 +31,12 @@ const isType = false
       >
         <!-- style="color: danger" -->
         <template v-if="lems.length === 0 || !lems[0].textContent">
+          <!--
           <v-icon size="sm" style="vertical-align: baseline !important">{{
             mdiAnchor
           }}</v-icon>
+          -->
+          <span class="mx-1"></span>
         </template>
         <template v-else>
           <TeiNodes :teiNodes="lems[0].childNodes" />

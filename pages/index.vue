@@ -7,6 +7,9 @@ definePageMeta({
   layout: "viewer",
 });
 
+// const appConfig = useAppConfig();
+// console.log(appConfig.bar)
+
 const barHeight = 48;
 
 const height = ref(600);
@@ -22,7 +25,7 @@ const xml = ref(null);
 var CETEIcean = new CETEI();
 
 onMounted(async () => {
-  let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0311.xml`;
+  let url = `${hostname}${baseURL.substring(1)}/data/xml/goethe0312.xml`;
 
 
   const response = await fetch(url);
