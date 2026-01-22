@@ -22,8 +22,5 @@ const editorialDecl =
       {{ editorialDecl }}
     </MenuPartExpansionPanel>
 
-    <MenuPartExpansionPanel v-if="false" class="mb-5" :title="$t('variantEncoding')">
-      <MoleculesEditorMenuFileEncodingVariant></MoleculesEditorMenuFileEncodingVariant>
-    </MenuPartExpansionPanel>
   </MenuPartCard>
 </template>

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import {mdiChevronRight} from '@mdi/js'
 
-import {Item} from '@/types/Item'
+import type {Item} from '@/types/Item'
 
 interface PropType {
   items?: Item[];

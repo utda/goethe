@@ -20,3 +20,6 @@ dist
 .serverless
 
 public/data/xml/tmp
+
+# Nuxt Content local database
+.data/

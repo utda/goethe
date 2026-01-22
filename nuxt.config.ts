@@ -40,7 +40,7 @@ for (const row of itaiji) {
 }
 
 // import itaiji from "./assets/json/dict.json";
-// config.itaiji = rows;
+config.itaiji = rows;
 
 const baseURL: string = config.baseURL; // "/goethe"
 
@@ -52,7 +52,7 @@ const appUrl = config.hostname + baseURL.substring(1)
 
 const image = appUrl + config.top_image_url
 
-const favicon = appUrl + "/favicon.ico"
+const favicon = appUrl + "/favicon.svg"
 
 export default defineNuxtConfig({
   modules: ["@nuxtjs/i18n", "@nuxt/content"],
@@ -99,7 +99,7 @@ export default defineNuxtConfig({
       link: [
         {
           rel: "icon",
-          type: "image/x-icon",
+          type: "image/svg+xml",
           href: favicon,
         },
       ],
@@ -107,15 +107,17 @@ export default defineNuxtConfig({
   },
   i18n: {
     locales: [
-      { code: "ja", iso: "ja_JP", file: "ja.js" },
-      { code: "en", iso: "en-US", file: "en.js" },
+      { code: "ja", language: "ja-JP", file: "ja.js" },
+      { code: "en", language: "en-US", file: "en.js" },
     ],
-    langDir: "locales/",
+    bundle: {
+      optimizeTranslationDirective: false,
+      runtimeOnly: true,
+    },
+    langDir: "locales",
     lazy: true,
     defaultLocale: lang,
-    vueI18n: {
-      fallbackLocale: lang,
-    },
+    vueI18n: "./i18n.config.ts",
   },
   // ssr: false,
   runtimeConfig: {

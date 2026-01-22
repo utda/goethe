@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Splitpanes, Pane } from "splitpanes";
 import "splitpanes/dist/splitpanes.css";
-import CETEI from "CETEIcean/src/CETEI.js";
+import CETEI from "CETEIcean";
 
 // import { deflate } from '~/utils/rawdeflate.js'
 // import {compress} from "@nakamura196/js-deflate"

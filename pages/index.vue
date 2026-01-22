@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Splitpanes, Pane } from "splitpanes";
 import "splitpanes/dist/splitpanes.css";
-import CETEI from "CETEIcean/src/CETEI.js";
+import CETEI from "CETEIcean";
 
 definePageMeta({
   layout: "viewer",
@@ -16,9 +16,9 @@ const height = ref(600);
 
 const { $config } = useNuxtApp();
 
-const hostname = $config.hostname;
+const hostname = $config.public.hostname;
 
-const baseURL = $config.baseURL;
+const baseURL = $config.public.baseURL;
 
 const xml = ref(null);
 

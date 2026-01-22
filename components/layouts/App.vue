@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const runtimeConfig = useRuntimeConfig();
-const app_name = runtimeConfig.app_baseURL;
+const app_name = runtimeConfig.app.baseURL;
 
 const { theme } = useSettings();
 

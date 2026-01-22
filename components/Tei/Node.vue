@@ -106,7 +106,7 @@ if (attributes && attributes.rend) {
 
 // -------------
 
-const itaiji_ = useNuxtApp().$config.itaiji;
+const itaiji_ = useNuxtApp().$config.public.itaiji;
 
 const mod = (text: string) => {
   if (itaiji.value !== "default") {

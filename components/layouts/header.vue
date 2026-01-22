@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useDisplay } from "vuetify";
 
-import { Menu } from "@/types/Menu";
+import type { Menu } from "@/types/Menu";
 import { mdiOpenInNew } from "@mdi/js";
 
 const localePath = useLocalePath();
@@ -13,9 +13,9 @@ const colorMain = runtimeConfig.public.color.main;
 
 const { theme } = useSettings();
 
-const app_name = runtimeConfig.app_baseURL;
+const app_name = runtimeConfig.app.baseURL;
 
-const menus = runtimeConfig.menus;
+const menus = runtimeConfig.public.menus;
 
 const menus_: Menu[] = menus;
 
@@ -58,7 +58,7 @@ const isMobile = computed(() => {
       <nuxt-link
         :to="localePath({ name: 'index' })"
         style="text-decoration: none; color: inherit"
-        >{{ $t($config.title) }}
+        >{{ $config.public.title }}
       </nuxt-link>
     </v-toolbar-title>
 

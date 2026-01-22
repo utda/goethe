@@ -98,5 +98,7 @@ export default {
     "history": "History",
     "provenance": "Provenance",
     "origin": "Origin",
-    "notation": "表記"
+    "notation": "表記",
+    "ゲーテ自署付書簡（公開元サイト）": "Goethe's Autograph Letters (Source Site)",
+    "東京大学総合図書館所蔵のゲーテ自署付書簡": "Goethe's Autograph Letters in the University of Tokyo General Library"
 }
