@@ -1,5 +1,7 @@
 <script setup lang="ts">
-import { BreadCrumbsItem } from "~/types/test";
+// types/test.d.ts は型宣言のみのファイルなので、値として import すると
+// Vite が実体モジュールを探して ENOENT になる。型専用 import にする。
+import type { BreadCrumbsItem } from "~/types/test";
 
 interface PropType {
   items?: BreadCrumbsItem[];
