@@ -24,7 +24,7 @@
     "@nakamura196/osd-custom-viewer": "^2.25.0",
     "CETEIcean": "^1.7.3",
     "splitpanes": "^3.1.5",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "vue-i18n": "^11.0.0",
     "vue3-smooth-scroll": "^0.8.1",
     "vuetify": "^3.7.6"
