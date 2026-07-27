@@ -47,7 +47,7 @@ export default {
     */
     {
       title: "ゲーテ自署付書簡（公開元サイト）",
-      href: "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/goethe/",
+      href: "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/goethe",
       target: "_blank",
       header: true,
     },
