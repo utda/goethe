@@ -13,20 +13,21 @@
     "@mdi/js": "^7.4.47",
     "@nuxt/content": "^3.11.0",
     "@nuxtjs/i18n": "^10.2.1",
-    "@types/uuid": "^10.0.0",
     "cross-env": "^7.0.3",
-    "nuxt": "^3.20.2",
+    "nuxt": "^3.21.10",
     "sass": "^1.83.4"
   },
   "dependencies": {
     "@nakamura196/js-deflate": "^1.1.0",
-    "better-sqlite3": "^12.5.0",
     "@nakamura196/osd-custom-viewer": "^2.25.0",
+    "better-sqlite3": "^12.5.0",
     "CETEIcean": "^1.7.3",
     "splitpanes": "^3.1.5",
-    "uuid": "^9.0.0",
     "vue-i18n": "^11.0.0",
     "vue3-smooth-scroll": "^0.8.1",
     "vuetify": "^3.7.6"
+  },
+  "overrides": {
+    "brace-expansion": ">=5.0.8"
   }
 }
