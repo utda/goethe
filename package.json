@@ -23,7 +23,7 @@
     "better-sqlite3": "^12.5.0",
     "CETEIcean": "^1.7.3",
     "splitpanes": "^3.1.5",
-    "vue-i18n": "^11.0.0",
+    "vue-i18n": "^11.4.18",
     "vue3-smooth-scroll": "^0.8.1",
     "vuetify": "^3.7.6"
   },
